@@ -4,6 +4,7 @@ import csv
 import os
 import datetime, pytz
 import logging
+import codecs
 
 logging.disable('WARNING')
 
@@ -16,7 +17,7 @@ class scholarspider(scrapy.Spider):
     start_urls = ['https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:information_systems',]
 
     def parse(self, response):
-        #print(response.url)
+        print(response.url)
         #storing local time of request and making a file name using it
         now = pytz.timezone("America/Chicago").localize(datetime.datetime.now())
         file_name = "IS scholars_GS" + now.strftime("%Y-%m-%d") + ".csv"
@@ -42,7 +43,10 @@ class scholarspider(scrapy.Spider):
             int_url = scholar.css('div.gs_ai_int a::attr(href)').getall()
             csv_writer.writerow([sch_name,sch_url,aff,cby,int,int_url])
 
-        next_page = response.css('.gs_btnPR::attr(onclick)').get()
+        next_page = response.url.split('?')[0] + '?' + response.css('.gs_btnPR::attr(onclick)').get().split('?')[1]
+        # next_path = response.css('.gs_btnPR::attr(onclick)').get()
+        next_page = next_page.replace("'", "")
+        next_page = codecs.decode(next_page, 'unicode-escape')
         print(next_page)
         # if next_page is not None:
         #     next_page = response.urljoin(next_page)
