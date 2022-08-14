@@ -1,0 +1,1262 @@
+[
+    {
+        "authors": "Sandeep Goyal, Viswanath Venkatesh, Xinpeng Shi",
+        "journal": "Information & Management",
+        "date": "2022/7/12",
+        "abstract": "Accelerated technological innovations have led to shorter product life cycles. Yet, consumers often decide not to discard the incumbent technology in favor of a new technology. To explain this decision-making process, a rich research stream has investigated subconscious motivations. However, there is little understanding of the role of conscious motivations and, more importantly, their interplay with subconscious motivations in their decisions. Using the value appreciation perspective, we controlled for the predictors of the second version of the unified theory of acceptance and use of technology (UTAUT2) and leverage prospect theory to enrich our understanding of users’ continuance intentions. We conceptualize status quo preference with two new constructs—namely, the value of status quo and users’ commitment to status quo—and integrate them with other known predictors of continuance intentions (related to …"
+    },
+    {
+        "authors": "Steffi Haag, Andreas Eckhardt, Viswanath Venkatesh",
+        "journal": "Deadlocks and Noncompliance Generate Job Performance (March 17, 2022)",
+        "date": "2022/3/17",
+        "abstract": "Novel information technologies (ITs), such as mobile devices or third-party cloud services, offer users an increasing variety of action possibilities, ie, affordances. Organizational IT policies, however, often specify their actualization, ie, turning those affordances into action, as undesired. Organizations face the challenge that their employees, to reach their goals, still frequently take advantage of those affordances by using those very ITs and thereby deviate from the IT policies. Although prior work has extensively studied how goal-oriented users actualize affordances that are associated with outcomes that support organizational goals, little attention has been paid to the structures, mechanisms, and conditions underlying affordances that deviate from organizational IT policies. We conceptualize those affordances as deviant affordances. Leveraging the orders of change framework and using a multimethod research design integrating interview and experimental studies, we identify three key mechanisms underlying deviant affordances—ie, tension, deadlock, and actualization mechanisms—that can link together to produce a deviant outcome supporting the individual goal and an organizational goal. Our work explains the importance of users’ perceived deadlock in stimulating the generation of deviant outcomes that support the organizational goals through improving task, contextual, and innovative job performance."
+    },
+    {
+        "authors": "Raji Raman, Ruba Aljafari, Viswanath Venkatesh, Vernon J Richardson",
+        "journal": "Raman, R., Aljafari, R., Venkatesh, V., and Richardson, V.“Mixed Methods Research in the Age of Analytics: An Exemplar Leveraging Sentiments from News Articles to Explain Firm Performance,” International Journal of Information Management (64)",
+        "date": "2022/3/17",
+        "abstract": "Investors and companies have always aspired to make informed investment decisions by using diverse information sources. With the explosion of information sources on the web and emergence of predictive analytics, many investors moved beyond traditional financial measures, as key predictors of firm performance, to textual content from analysts’ reports. Empirical research suggests that these information sources complement each other by providing a clear picture of firm performance, but remains silent on the role of additional textual content that continues to emerge and reach more potential investors on the web. We build on this line of research to examine the effect of textual content from business journals in conjunction with summary measures on cumulative abnormal returns. We use sentiment analysis with machine learning and econometrics methods to examine content extracted from textual articles about S&P 500 index companies that are published in the Wall Street Journal (years 2013–2016). Textual analysis of business journals in conjunction with quantitative measures revealed direct and interaction effects on abnormal returns over time. We also tested for robustness by replicating the analysis with different variable operationalization and observe consistent patterns. Relative to positive sentiments, negative sentiments have more profound effects on cumulative abnormal returns. The effect of positive sentiments becomes weaker when past quantitative measures are high. As information sources continue to emerge on the web, this work makes key contributions to the practice of sentiment analysis in financial markets."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred D Davis, Yaping Zhu",
+        "journal": "Journal of Business Research",
+        "date": "2022/2/1",
+        "abstract": "Drawing from the knowledge management literature, we developed and tested a nomological network related to knowledge sharing – i.e., knowledge seeking and knowledge providing using knowledge management systems. We investigated the effect of cultural contingencies on the prediction of both knowledge seeking and knowledge providing. In addition, we examined the effect of knowledge sharing using a KMS on employee job performance. We conducted a study using a field survey of 224 employees in an organization in the People’s Republic of China and United States. We found that sensitivity to image and sensitivity to organizational incentives influenced both knowledge seeking and knowledge providing, and the effect was varied across individuals with different cultural values. For example, our findings suggested that the negative relationship between sensitivity to image and knowledge seeking was …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Sandeep Goyal",
+        "journal": "Journal of Management Information Systems",
+        "date": "2022/1/2",
+        "abstract": "Organizations usually have difficulty adjusting to technology-enabled changes. Recent research has examined the interaction between technology and the key job outcomes of employees. But this research stream has done so using a linear lens even though this interplay has been recognized to be dynamic and complex. We challenge here this linearity assumption. We theorized that enterprise system (ES) use influences post-implementation job scope, and the change from pre- to post-implementation job scope perceptions will have a complex effect on job outcomes that are best captured by a polynomial model. Drawing on the anchoring-and-adjustment perspective in decision-making research, our polynomial model highlights the dynamic nature of employee reactions to changes in job scope brought about by an ES implementation that cannot be captured by traditional linear models. We found support for our …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Cheri Speier-Pero, Sebastian Schuetz",
+        "journal": "Information Technology & People",
+        "date": "2022/2/11",
+        "abstract": "Consumer adoption of online shopping continues to increase each year. At the same time, online retailers face intense competition and few are profitable. This suggests that businesses and researchers still have much to learn regarding key antecedents of online shopping adoption and success. Based on extensive past research that has focused on the importance of various online shopping antecedents, this work seeks to provide an integrative, comprehensive nomological network."
+    },
+    {
+        "authors": "Hartmut Hoehle, Viswanath Venkatesh, Susan A Brown, Bennett J Tepper, Thomas Kude",
+        "journal": "MIS Quarterly",
+        "date": "2022/3/1",
+        "abstract": "Data breaches are a major threat to organizations from both financial and customer relations perspectives. We developed a nomological network linking post-breach compensation strategies to key outcomes, namely continued shopping intentions, positive word-of-mouth, and online complaining, with the effects being mediated by customers' justice perceptions. We conducted a longitudinal field study investigating Target's data breach in 2013 that affected more than 110 million customers. We examined customers' expectations toward compensation immediately after the breach was confirmed (survey 1) and their experiences after reparations were made (survey 2). Evidence from polynomial regression and response surface analyses of data collected from 388 affected customers showed that customers' justice perceptions were influenced by the actual compensation provided as well as the type and extent of …"
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2022/3/19",
+        "abstract": "The Institute of Medicine (IOM) in 1999 [5] shocked the nation by reporting that as much as 98,000 people die in hospitals every year due to medical errors. These errors are also said to cost hospitals as much as $29 billion every year. Of the many reasons identified for the medical errors, one critical reason is the decentralized and fragmented nature of information related to patient, drug, procedures, and clinical processes. IOM further reported that about three out of four errors could have been eliminated by better information systems to make drug and patient information readily available when needed. Over the past seven years, after the IOM report was published, the government and health care providers have recognized that an efficient information technology (IT) backbone is essential for safe and high-quality care [11] and cost savings [4]."
+    },
+    {
+        "authors": "Raji Raman, Ruba Aljafari, Viswanath Venkatesh, Vernon Richardson",
+        "journal": "International Journal of Information Management",
+        "date": "2022/6/1",
+        "abstract": "Investors and companies have always aspired to make informed investment decisions by using diverse information sources. With the explosion of information sources on the web and emergence of predictive analytics, many investors moved beyond traditional financial measures, as key predictors of firm performance, to textual content from analysts’ reports. Empirical research suggests that these information sources complement each other by providing a clear picture of firm performance, but remains silent on the role of additional textual content that continues to emerge and reach more potential investors on the web. We build on this line of research to examine the effect of textual content from business journals in conjunction with summary measures on cumulative abnormal returns. We use sentiment analysis with machine learning and econometrics methods to examine content extracted from textual articles about …"
+    },
+    {
+        "authors": "Marion Büttgen, Julia Dicenta, Kai Spohrer, Viswanath Venkatesh, Raji Raman, Hartmut Hoehle, Arne De Keyser, Cédric Verbeeck, Johannes Zwienenberg, Kim Peiter Jorgensen, Roman Beck, Olivier Rikken, Marijn Janssen, Zenlin Kwee, Fabian Schär",
+        "journal": null,
+        "date": "2021",
+        "abstract": "As blockchain technology is maturing to be confidently used in practice, its applications are becoming evident and, correspondingly, more blockchain research is being published, also extending to more domains than before. To date, scientific research in the field has predominantly focused on subject areas such as finance, computer science, and engineering, while the area of service management has largely neglected this topic. Therefore, we invited a group of renowned scholars from different academic fields to share their views on emerging topics regarding blockchain in service management and service research. Their individual commentaries and conceptual contributions refer to different theoretical and domain perspectives, including managerial implications for service companies as well as forward-looking suggestions for further research."
+    },
+    {
+        "authors": "Santha Vaithilingam, Mahendhiran Nair, Mary Macharia, Viswanath Venkatesh",
+        "journal": "International Journal of Information Management",
+        "date": "2022/4/1",
+        "abstract": "We developed a contextualized model to predict the use of technology among the urban poor. Based on the core idea that, in developing countries, the urban poor face different challenges from those of the rural poor, we argued that five key facilitating conditions (FC)—namely, infrastructure, technical and support services, legal and regulatory framework, financial factors and affordability, and self-efficacy—are the central drivers of both non-instrumental and instrumental use of mobile devices. Situated in the unified theory of acceptance and use of technology (UTAUT), these FC were found to be important drivers in our study conducted among 396 mobile phone users in a poor urban area in Malaysia. In addition to extending a key UTAUT construct to an important context, our results have important practical implications, in that, to increase non-instrumental and instrumental use, careful attention should be given to co …"
+    },
+    {
+        "authors": "Sebastian Schuetz, Tracy Sykes, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2021",
+        "abstract": "The onset of the COVID-19 pandemic was accompanied with a pandemic of fake news spreading over social media (SM). Fact checking might help combat fake news and a plethora of fact-checking platforms exist, yet few people actually use them. Moreover, whether fact checking is effective in preventing citizens from falling for fake news, particularly COVID-19 related, is unclear. Against this backdrop, we (a) examine potential antecedents to fact checking that can be a target for interventions and (b) establish that fact checking is actually effective for preventing the public from falling for harmful COVID-19 fake news. To do so, we use a representative US sample collected in April of 2020. We find that awareness of fake news and patterns of active SM use (eg, commenting on content on SM instead of just reading it) increases the fact checking of COVID-19 fake news, whereas SM homophily reduces fact checking and the effects of SM use as users are trapped in “echo chambers.” We also find that fact checking helps users identify and follow accurate information on how to protect themselves against COVID-19 instead of false and often harmful claims propagated on SM. These findings highlight the importance of fact checking for combating COVID-19 fake news and help identify potential interventions."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Daniel C Ganster, Sebastian Schuetz, Tracy Sykes",
+        "journal": null,
+        "date": "2021",
+        "abstract": "Highly conscientious workers are more motivated and productive than their less conscientious colleagues. Moreover, conscientious employees tend to be more satisfied and less stressed from their work. One consequence of the COVID-19 pandemic, however, is that many workers have transitioned to working remotely, often under conditions of less direct supervision and less clarity about expected work activities and outcomes. We proposed that this significant change in work context constitutes a weakening of situational strength that can change the relationship of conscientiousness with job strain, job satisfaction, and job performance. Using Meyer et al.’s (2010) conceptualization of situational strength, we tested the moderating effect of situational strength by surveying 474 white collar employees in a Fortune-1000 firm in 2019 and again in 2020 after they had all transitioned to working remotely. We found that the changes in work context due to COVID-19 significantly lowered scores on situational strength and this was accompanied by a stronger positive effect of conscientiousness on performance. Importantly, during COVID-19, the relationships of conscientiousness with strain and satisfaction showed a reversal of sign, with more conscientious workers reporting higher strain and lower satisfaction. These effects were partially mediated by job demands and were replicated with work hours. The results provide a test of situational strength theory and suggest that changes in situational strength due to COVID-19 may cause an organization's most conscientious employees to be at elevated risk for burnout and dissatisfaction, and consequently …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hillol Bala",
+        "journal": "Information Systems Research",
+        "date": "2012/4/18",
+        "abstract": "Notwithstanding potential benefits, such as quality of interorganizational relationships and operational and strategic gains, adoption of information technology (IT)-enabled interorganizational business process standards (IBPS) is still limited. Given that these standards are designed for interorganizational business processes, we suggest that adoption of these standards depends not only on the factors pertinent to a focal firm but also on factors that represent synergies between a focal firm and its trading partners. In this paper, building on the technological, organizational, and environmental (TOE) framework and interorganizational theories, we propose a model that postulates that a set of TOE factors will have synergistic effects (i.e., interactions between a focal firm's and its partner's factors) on IBPS adoption. We tested our model in a study of 248 firms (124 dyads) in the high-tech industry implementing RosettaNet …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy Ann Sykes, Ruba Aljafari, Marshall Scott Poole",
+        "journal": "Industrial Management & Data Systems",
+        "date": "2021/1/19",
+        "abstract": "As information systems (IS) phenomena continue to emerge and evolve in our ever-changing economic and social contexts, researchers need to increase their focus on time in order to enrich our theories. The purpose of this paper is to present broad suggestions for IS researchers about how they can direct some of their research efforts to consider, conceptualize and incorporate time into research endeavors and how they might be mindful about considering and specifying time-related scope conditions of their research efforts."
+    },
+    {
+        "authors": "Hartmut Hoehle, Jia Wei, Sebastian Schuetz, Viswanath Venkatesh",
+        "journal": "Internet Research",
+        "date": "2021/2/26",
+        "abstract": "In the aftermath of data breaches, many firms offer compensation to affected customers to recover from damaged customer sentiments. To understand the effectiveness of such compensation offerings, Goode "
+    },
+    {
+        "authors": "Viswanath Venkatesh, James YL Thong, Xin Xu",
+        "journal": "MIS Quarterly",
+        "date": "2012/3/1",
+        "abstract": "This paper extends the unified theory of acceptance and use of technology (UTAUT) to study acceptance and use of technology in a consumer context. Our proposed UTAUT2 incorporates three constructs into UTAUT: hedonic motivation, price value, and habit. Individual differences — namely, age, gender, and experience — are hypothesized to moderate the effects of these constructs on behavioral intention and technology use. Results from a two-stage online survey, with technology use data collected four months after the first survey, of 1,512 mobile Internet consumers supported our model Compared to UTAUT, the extensions proposed in UTAUT2 produced a substantial improvement in the variance explained in behavioral intention (56 percent to 74 percent) and technology use (40 percent to 52 percent). The theoretical and managerial implications of these results are discussed."
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh, Sandeep Goyal",
+        "journal": "Information Systems Research",
+        "date": "2012/6",
+        "abstract": "We propose a model to study expectation confirmation in information systems. The proposed model is based on the assimilation-contrast model and prospect theory, and suggests that both are needed to account for the magnitude and direction of the deviations between experiences and expectations. Using the technology acceptance model's (TAM) primary construct—namely, perceived usefulness—expectations and experiences were conceptualized and operationalized to test our model. Data were collected in a field study from 1,113 participants at two points in time. Using polynomial modeling and response surface analysis, we demonstrated that our model offers a good explanation of the relationship among information systems expectations, experiences, and use. We discuss theoretical and practical implications."
+    },
+    {
+        "authors": "Pankaj Setia, Viswanath Venkatesh, Supreet Joglekar",
+        "journal": "MIS Quarterly",
+        "date": "2013",
+        "abstract": "With the growing recognition of the customer's role in service creation and delivery, there is an increased impetus on building customer-centric organizations. Digital technologies play a key role in such organizations. Prior research studying digital business strategies has largely focused on building production-side competencies and there has been little focus on customer-side digital business strategies to leverage these technologies. We propose a theory to understand the effectiveness of a customer-side digital business strategy focused on localized dynamics—here, a firm's customer service units (CSUs). Specifically, we use a capabilities perspective to propose digital design as an antecedent to two customer service capabilities—namely, customer orientation capability and customer response capability—across a firm's CSUs. These two capabilities will help a firm to locally sense and respond to customer …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "Journal of Operations Management",
+        "date": "2013",
+        "abstract": "It has been over 3 years since the cup of coffee, when I was visiting East Lansing, with then-coeditor, Dr. Morgan Swink, started my journey of editing this special issue. The crux of our discussion was captured in the call for papers that appeared in volume, issue#:(1) create a knowledge base from which future interdisciplinary work on OM and IT can be launched;(2) encourage OM and IT researchers to pursue challenging research projects that require theoretical and methodological pluralism; and (3) offer a platform that supports cross-pollination of research from behavioral, economics and design paradigms from both OM and IT. Notwithstanding the prior research at the intersection of OM and IT, we notice a considerable lack of cross-fertilization and collaboration in research between OM and IT. We observe that in many cases, articles published in the IT journals fail to leverage the knowledge from articles …"
+    },
+    {
+        "authors": "V Venkatesh, H Bala",
+        "journal": "Manuscript in preparation",
+        "date": "2013",
+        "abstract": null
+    },
+    {
+        "authors": "RS Pankaj, KB Satisha, V Venkatesh, R Gupta, K Kumar, BC Das, AC Majumdar, S Bag, R Ranjan",
+        "journal": "Indian Journal of Animal Sciences",
+        "date": "2012/11/1",
+        "abstract": "The present study was carried out to compare the different activation protocol for generation of parthenogenetic embryos in caprine. For parthenogenetic embryo production, 6 activation protocols, viz. 7% ethanol in modified synthetic oviductal fluid (mSOF) for 5 min (P-1), 5µM ionomycin in mSOF for 5 min (P-II), 27 h maturation in maturation media containing 10 and 20 µg/ml cytochalacin B (CCB) followed by activation with (a) 7% ethanol in mSOF for 5 min (P-III, P-IV), or (b) 5µM ionomycin in mSOF for 5 min (PV and P-VI). All these treatments were followed by 4 h incubation with 2mM 6-dimethylaminopurine (6-DMAP) in mSOF. After that the activated oocytes were further cultured in mSOF for embryo development. The cleavage rate was higher when oocytes were activated by ionomycin than ethanol but further embryo development was better in ethanol activated oocytes. When oocytes were matured in presence of CCB followed by ionomycin or ethanol activation, the cleavage rate and embryo development did not change significantly and was almost similar to when oocytes were activated simply by ethanol or ionomycin. The study indicated that ethanol and ionomycin alone or even in combination with cytochalacin B induced activation and parthenogenetic development of in vitro matured caprine oocytes."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Susan A Brown, Hillol Bala",
+        "journal": "MIS Quarterly",
+        "date": "2013/3/1",
+        "abstract": "Mixed methods research is an approach that combines quantitative and qualitative research methods in the same research inquiry. Such work can help develop rich insights into various phenomena of interest that cannot be fully understood using only a quantitative or a qualitative method. Notwithstanding the benefits and repeated calls for such work, there is a dearth of mixed methods research in information systems. Building on the literature on recent methodological advances in mixed methods research, we develop a set of guidelines for conducting mixed methods research in IS. We particularly elaborate on three important aspects of conducting mixed methods research: (1) appropriateness of a mixed methods approach; (2) development of meta-inferences (i.e., substantive theory) from mixed methods research; and (3) assessment of the quality of meta-inferences (i.e., validation of mixed methods research …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy Ann Sykes",
+        "journal": "Information Systems Research",
+        "date": "2013/6",
+        "abstract": "Digital divide initiatives in developing countries are an important avenue for the socioeconomic advancement of those countries. Yet little research has focused on understanding the success of such initiatives. We develop a model of technology use and economic outcomes of digital divide initiatives in developing countries. We use social networks as the guiding theoretical lens because it is well suited to this context, given the low literacy, high poverty, high collectivism, and an oral tradition of information dissemination in developing countries. We test our model with longitudinal data gathered from 210 families in a rural village in India in the context of a digital divide initiative. As theorized, we found that the social network constructs contributed significantly to the explanation of technology use ("
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2013/9/1",
+        "abstract": "By distinguishing between employees' online and offline workplace communication networks, this paper incorporates technology into social network theory to understand employees' job performance. Specifically, we conceptualize network ties as direct and indirect ties in both online and offline workplace communication networks, thus resulting in four distinct types of ties. We theorize that employees' ties in online and offline workplace communication networks are complementary resources that interact to influence their job performance. We found support for our model in afield study among 104 employees in a large telecommunication company. The paper concludes with theoretical and practical implications."
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2013/12/1",
+        "abstract": "Enterprise system implementations often create tension in organizations. On the one hand, these systems can provide significant operational and strategic benefits. On the other hand, implementation of these systems is risky and a source of major disruptions. In particular, employees experience significant changes in their work environment during an implementation. Although the relationship between ES implementations and employees' jobs has been noted in prior research, there is limited research on the nature, extent, determinants, and outcomes of changes in employees' job characteristics following an ES implementation. This paper develops and tests a model, termed the job characteristics change model (JCCM), that posits that employees will experience substantial changes in two job characteristics (i.e., job demands and job control) during the shakedown phase (i.e., immediately after the rollout) of an ES …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy Ann Sykes, Srinivasan Venkatraman",
+        "journal": "Information Systems Journal",
+        "date": "2014",
+        "abstract": "Electronic government (e‐Government) is one of the most important ways to bridge the digital divide in developing countries. We develop a model of e‐Government portal use. We use various individual characteristics, namely demographics and personality, as predictors of e‐Government portal use. Specifically, our predictors were (1) gender, age, income and education; (2) the Big Five personality characteristics, i.e. extraversion, neuroticism, conscientiousness, agreeableness and openness to experience; and (3) personal innovativeness with information technology. We conducted a field study in a village in India. We collected data from over 300 heads of household. We found support for our model, with most variables being significant and explaining 40% of the variance in e‐Government portal use."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Michael G Morris, Fred D Davis",
+        "journal": null,
+        "date": "2014",
+        "abstract": "Imagine the following conversation between two researchers at a research university located anywhere in the world: Doctoral student/new researcher:“I’ve been reading about how and why people choose to use new technologies and am very interested in building on some of the recent technology adoption models.” Doctoral advisor/senior researcher:“I donst recommend it. There has been so much work done in that area that it is virtually impossible to demonstrate a contribution and get a paper on technology acceptance accepted at any top journal anymore. You would be much better off spending your time working on…."
+    },
+    {
+        "authors": "Tracy Ann Sykes, Viswanath Venkatesh, Jonathan L Johnson",
+        "journal": "MIS Quarterly",
+        "date": "2014/3/1",
+        "abstract": "The implementation of enterprise systems, such as enterprise resource planning (ERP) systems, alters business processes and associated workflows, and introduces new software applications that employees must use. Employees frequently find such technology-enabled organizational change to be a major challenge. Although many challenges related to such changes have been discussed in prior work, little research has focused on post-implementation job outcomes of employees affected by such change. We draw from social network theory—specifically, advice networks—to understand a key post-implementation job outcome (i.e., job performance). We conducted a study among 87 employees, with data gathered before and after the implementation of an ERP system module in a business unit of a large organization. We found support for our hypotheses that workflow advice and software advice are associated …"
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh, Sandeep Goyal",
+        "journal": "MIS Quarterly",
+        "date": "2014/9/1",
+        "abstract": "Expectation confirmation research in general, and in information systems (IS) in particular, has produced conflicting results. In this paper, we discuss six different models of expectation confirmation: assimilation, contrast, generalized negativity, assimilation-contrast, experiences only, and expectations only. Relying on key constructs from the technology acceptance model (TAM), we test each of these six models that suggests different roles for expectations and experiences of the key predictor—here, perceived usefulness—and their impacts on key outcomes—here, behavioral intention, use, and satisfaction. Data were collected in a field study from 1,113 participants at two points in time. Using polynomial modeling and response surface analysis, we provide the analytical representations for each of the six models and empirically test them to demonstrate that the assimilation-contrast is the best existing model in terms …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hartmut Hoehle, Ruba Aljafari",
+        "journal": "Government Information Quarterly",
+        "date": "2014/10/1",
+        "abstract": "The healthcare.gov website, popularly called the Obamacare website, was off to a rough start. Although infrastructure issues received a great deal of media attention, the site has had its fair share of interface design problems. Drawing on the usability guidelines on the government site of usability.gov, we developed a survey instrument that comprised 16 dimensions to form overall usability. Based on a survey of 374 citizens, we found that usability strongly predicted citizen satisfaction with the website and intention to use the website. Six out of the 16 dimensions of usability emerged as significant in driving overall usability perceptions. In addition to key theoretical implications for e-government and usability research, our work offers practical implications for the healthcare.gov website and e-government web applications in general."
+    },
+    {
+        "authors": "Xin Xu, James YL Thong, Viswanath Venkatesh",
+        "journal": "Information Systems Research",
+        "date": "2014/12",
+        "abstract": "This paper examines the effects of information and communication technology (ICT) service innovation and its complementary strategies on brand equity and customer loyalty toward ICT service providers. We draw from research on brand equity and customer loyalty, ICT innovation management, and strategy complementarity to propose a model that includes new constructs representing ICT service innovation, i.e., service leadership, and its two complementary strategies, i.e., customization-personalization control and technology leadership, and how their interactions influence customer loyalty through customer-based brand equity. We test our model using data from an online survey of 1,210 customers of mobile data services. The results show that service leadership and customization-personalization control have significant direct impacts on ICT service providers' brand equity. Moreover, when either the level of …"
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh",
+        "journal": "Information Systems Research",
+        "date": "2007/9",
+        "abstract": "Organizations have not fully realized the benefits of interorganizational relationships (IORs) due to the lack of cross-enterprise process integration capabilities. Recently, "
+    },
+    {
+        "authors": "Sue Nielsen, Eileen M Trauth, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2000/12/10",
+        "abstract": "At the same time that unprecedented opportunity exists for IT professionals around the world, the field is experiencing an IT skills crisis that stems from the shortage of qualified IT professionals. It is, therefore, ironic that despite significant growth in the IT professions, there remain segments of the population under-represented in IT. Among those under-represented in IT are women. In some countries there is evidence of declining participation by women in the IT profession. 1 The question on the minds of those concerned with IT human resources and the development of qualified IT professionals is: Why? A deeper understanding of this question is necessary for the development of appropriate IT human resource strategies."
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh, Anne P Massey, Mitzi Montoya-Weiss",
+        "journal": null,
+        "date": "2001",
+        "abstract": "We study the relationship among expectations, evaluations, and satisfaction in the context of information systems implementation in an organization. The importance of this research is underscored by the significant financial losses for organizations resulting from failed information systems implementation efforts. Data were collected from 742 employees of a large banking institution undergoing a major information system implementation. We examined the relationship among pre-use expectations, post-use evaluations, and satisfaction using linear, difference score, and polynomial models. The results show that the polynomial models provide the richest explanation of the underlying phenomenon."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Susan A Brown",
+        "journal": "MIS Quarterly",
+        "date": "2001/3/1",
+        "abstract": "While technology adoption in the workplace has been studied extensively, drivers of adoption in homes have been largely overlooked. This paper presents the results of a nation-wide, two-wave, longitudinal investigation of the factors driving personal computer (PC) adoption in American homes. The findings revealed that the decisions driving adoption and non-adoption were significantly different. Adopters were driven by utilitarian outcomes, hedonic outcomes (i.e., fun), and social outcomes (i.e., status) from adoption. Non-adopters, on the other hand, were influenced primarily by rapid changes in technology and the consequent fear of obsolescence. A second wave of data collection conducted six months after the initial survey indicated an asymmetrical relationship between intent and behavior, with those who did not intend to adopt a PC following more closely with their intent than those who intended to adopt …"
+    },
+    {
+        "authors": "Michael G Morris, Viswanath Venkatesh, Fred D Davis",
+        "journal": "Misrc. Umn. Edu working paper",
+        "date": "2002",
+        "abstract": "Little is known about the impact of information technology on downstream individual outcomes in the workplace. This research presents the results of a 12-month field study of 2,810 employees in a telecommunications firm. The research model captures the dynamic process of new technology implementation, focusing on the interrelationships between job characteristics, technology outcomes, job outcomes and individual performance. Results indicated that the implementation of new information technology influenced both job and performance outcomes when moderated by job enrichment and perceived job transformation, and had a direct effect on system satisfaction. These results have far-reaching implications for information technology and management researchers interested in how new technology affects key outcomes within organizations."
+    },
+    {
+        "authors": "Abayomi Baiyere, Heikki Topi, Viswanath Venkatesh, John Wyatt, Brian Donnellan",
+        "journal": null,
+        "date": null,
+        "abstract": "The Internet of things (IoT) is emerging as an integrated set of digital innovations with the potential to unleash unprecedented opportunities and create significant challenges from both technological and societal perspectives. The IoT’s emergence signals many valuable opportunities (particularly for information systems (IS) scholars) to conduct scholarly inquiries. We posit that, since the IS discipline operates at the intersection of information technologies’(IT) social, business, and technical aspects, IS scholars have a unique capacity to understand and contribute to advancing research on this new topic and associated phenomena. We outline the IoT’s distinctive attributes and their implications for existing IS research traditions. Furthermore, we highlight some illustrative research perspectives from which IS scholars can study the IoT. We highlight a research agenda for IS in two different ways. First, we discuss four IS characteristics that change based on IoT elements: 1) the physio-digital continuum, 2) multi-level exploration of IS, 3) composite affordance, and 4) heterogeneity. Second, we discuss the ways in which the IoT opens up research opportunities based on its impact on four major thematic domains: 1) organizations, 2), technology, 3) individuals, and 4) society."
+    },
+    {
+        "authors": "V Venaktesh, G Morris",
+        "journal": "MIS Quarterly",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "V Venkatesh, G Morris",
+        "journal": "User Acceptance of Information Technology: Toward a Unified View",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "V Morris Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "V Venkatesh, MG Morris, GB Davis",
+        "journal": "A theoretical extension of the technology acceptance",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred D Davis",
+        "journal": "Proceedings of the International Conference on Information Systems",
+        "date": "1994",
+        "abstract": "This paper reports on a recent research study concerning the outsourcing of information technology activities in the United Kingdom. The study involved a large survey and a set of detailed case studies based on large and medium sized organizations. In particular the issues of contracts and partnerships are examined, which is identified as one of the key elements in successful outsourcing. The authors show the variety of approaches and perceptions that exist concerning these issues, and conclude that there is much misunderstanding, particularly in relation to partnership. The paper concludes by creating a framework for helping to identify and examine the interrelationship between contractual arrangements, the required degree of contractual definition, and the characteristics of the area being outsourced."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred D Davis",
+        "journal": null,
+        "date": "1994",
+        "abstract": null
+    },
+    {
+        "authors": "FD Davis, Viswanath Venkatesh",
+        "journal": null,
+        "date": "1995/1/3",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, Susan Brown",
+        "journal": "Proceedings of the International Conference on Information Systems",
+        "date": "1996",
+        "abstract": "This material is brought to you by the International Conference on Information Systems (ICIS) at AIS Electronic Library (AISeL). It has been accepted for inclusion in ICIS 1996 Proceedings by an authorized administrator of AIS Electronic Library (AISeL). For more information, please contact elibrary@ aisnet. org."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred D Davis",
+        "journal": "Decision Sciences",
+        "date": "1996/9",
+        "abstract": "The Technology Acceptance Model (TAM) has been widely used to predict user acceptance and use based on perceived ease of use and usefulness. However, in order to design effective training interventions to improve user acceptance, it is necessary to better understand the antecedents and determinants of key acceptance constructs. In this research, we focus on understanding the determinants of perceived ease of use. Data from three experiments spanning 108 subjects and six different systems supported our hypothesis that an individual's perception of a particular system's ease of use is anchored to her or his general computer self‐efficacy at all times, and objective usability has an impact on ease of use perceptions about a specific system only after direct experience with the system. In addition to being an important research issue in user acceptance research, understanding antecedents of perceived ease …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": null,
+        "date": "1998",
+        "abstract": "User acceptance of information technologies is an important issue since productivity gains associated with technology use can be achieved only if a particular technology is accepted and used by target users. This dissertation attempts to address five important issues related to user acceptance. The key research questions are listed below:(1) How do the different models of user acceptance (eg, Technology Acceptance Model, Decomposed Theory of Planned Behavior, Innovation Diffusion Theory and a Model of PC Utilization) compare with each other in terms of predictive validity? We expect the Technology Acceptance Model (TAM), which comprises of perceived usefulness and perceived ease of use, to be the most powerful model predicting acceptance.(2) What are the determinants of perceived usefulness? We hypothesize that subjective norm and innovation characteristics to be the key determinants of …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "1999/6/1",
+        "abstract": "A key issue facing information systems researchers and practitioners has been the difficulty in creating favorable user reactions to new technologies. Insufficient or ineffective training has been identified as one of the key factors underlying this disappointing reality. Among the various enhancements to training being examined in research, the role of intrinsic motivation as a lever to create favorable user perceptions has not been sufficiently exploited. In this research, two studies were conducted to compare a traditional training method with a training method that included a component aimed at enhancing intrinsic motivation. The results strongly favored the use of an intrinsic motivator during training. Key implications for theory and practice are discussed."
+    },
+    {
+        "authors": "Fred D Davis, Viswanath Venkatesh",
+        "journal": "International Journal of Human-Computer Studies",
+        "date": "1996/7/1",
+        "abstract": "The Technology Acceptance Model (TAM) is widely used by researchers and practitioners to predict and explain user acceptance of information technologies. TAM models system usage intentions and behavior as a function of perceived usefulness and perceived ease of use. The original scales for measuring the TAM constructs have been confirmed to be reliable and valid in several replications and applications spanning a range of technologies and user populations. However, a measurement bias may be present because the TAM instrument physically"
+    },
+    {
+        "authors": "M.Y. Yi, V. Venkatesh",
+        "journal": null,
+        "date": "1996/8",
+        "abstract": "The productivity gains and organizational benefits expected to be delivered by information systems (IS) cannot be realized unless systems are actually used. The utilization of IS has been identified as one of the most critical issues among IS executives (Niederman, et al., 1991) and IS researchers (DeLone & McLean, 1992)."
+    },
+    {
+        "authors": "V Venkatesh",
+        "journal": "MIS Q",
+        "date": "2000",
+        "abstract": null
+    },
+    {
+        "authors": "V. Venkatesh, C. Speier",
+        "journal": "International Journal of Human-Computer Studies",
+        "date": "2000",
+        "abstract": "There is a growing need for research examining the effective implementation and management of teleworking as it is increasingly being used as an organizational work structure. The enhanced functionality of many information technologies facilitates the completion of work across geographically dispersed teleworkers while simultaneously providing a vehicle to overcome social isolation that has been viewed as an inhibitor of teleworker effectiveness. This research assesses two training methods that can be used to help teleworkers develop skill sets for using these technologies. The results suggest that using a game-based training method facilitates the training process by increasing users' intrinsic motivation resulting in increased intention to use the technology. This can be particularly important in enhancing the effective completion of team and individual telework while at the same time providing a mechanism to …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Cheri Speier",
+        "journal": "Organizational Behavior and Human Decision Processes",
+        "date": "1999/7/1",
+        "abstract": "How does a person's mood during technology training influence motivation, intentions, and, ultimately, usage of the new technology? Do these mood effects dissipate or are they sustainable over time? A repeated-measures field study ("
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred D Davis",
+        "journal": "Management Science",
+        "date": "2000/2/1",
+        "abstract": "The present research develops and tests a theoretical extension of the Technology Acceptance Model (TAM) that explains perceived usefulness and usage intentions in terms of social influence and cognitive instrumental processes. The extended model, referred to as TAM2, was tested using longitudinal data collected regarding four different systems at four organizations ("
+    },
+    {
+        "authors": "Viswanath Venkatesh, Michael G Morris",
+        "journal": "MIS Quarterly",
+        "date": "2000/3/1",
+        "abstract": "Using the Technology Acceptance Model (TAM), this research investigated gender differences in the overlooked context of individual adoption and sustained usage of technology in the workplace. User reactions and technology usage behavior were studied over a five-month period among 342 workers being introduced to a new software system. At all three points of measurement, compared to women, men's technology usage decisions were more strongly influenced by their perceptions of usefulness. In contrast, women were more strongly influenced by perceptions of ease of use and subjective norm, although the effect of subjective norm diminished over time. These findings were robust even after statistically controlling for key confounding variables identified in prior organizational behavior research (i.e., income, occupation, and education levels), and another possible confound from technology research, prior …"
+    },
+    {
+        "authors": "X. Venkatesh, V., Sykes, T.A., and Zhang",
+        "journal": "MIS Quarterly (forthcoming)",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "P. Venkatesh, V., Rai, A., Sykes, T.A., and Setia",
+        "journal": "MIS Quarterly (forthcoming)",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "P. Venkatesh, V., Sykes, T.A., Chan, F., Thong, J.Y.L., and Hu",
+        "journal": "MIS Quarterly (forthcoming)",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "V. AbuJarour, S., Wiesche, M., Andrade, A.D., Fedorowicz, J., Krasnova, H., Olbrich, S., Tan, C., Urquhart, C., and Venkatesh",
+        "journal": "Communications of the AIS (forthcoming)",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "V. Schuetz, S. and Venkatesh",
+        "journal": "International Journal of Information Management (forthcoming)",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "Morris Venkatesh, M Morris",
+        "journal": "User Acceptance of Information Technology: Toward a Unified View",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "V. Aloysius, J.A., Arora, A., and Venkatesh",
+        "journal": "IT & People (forthcoming)",
+        "date": null,
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, Kar Yan Tam, Xu Xin, SJ Hong",
+        "journal": null,
+        "date": null,
+        "abstract": "This paper examines consumer migration intention across generations of information and communication technology (ICT) service platforms. Our work complements macro-level research on the diffusion of multiple technology generations and thus has implications for ICT service innovations targeted at consumers. Integrating research from multiple disciplines, we proposed four categories of determinants of consumer platform-migration intention: general perceptions of ICT services, perceptions of advancements in a new generation of ICT services, external influences, and individual differences. The direct effects model was supported in a study of over 4,000 consumers in Hong Kong who could migrate to 3G, a new generation of mobile data service platform. A model with interaction terms distinguished three types of migration situations—namely transformative, leapfrogging, and incremental—based on the current technology generation being used by a consumer. Specifically, the new category of constructs introduced in this work, perceptions of the new generation of ICT services, were the strongest drivers of migration intention in incremental migration, whereas external influences and general perceptions of ICT services had stronger effects in transformative and leapfrogging situations."
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh",
+        "journal": null,
+        "date": null,
+        "abstract": "In this paper, we integrate three streams of research in information systems (ie, IS success, technology adoption, and human-centered design principles) to extend our understanding of technology use. We present a theoretical framework that incorporates the core ideas from these three streams of research. We leverage the proposed framework to present propositions that could guide future work. Specifically, the propositions we develop relate system-design principles to use and net benefits (ie, job performance and job satisfaction) and rich use to job performance. We further suggest several broad potential future research directions."
+    },
+    {
+        "authors": "Tracy Ann Sykes, Viswanath Venkatesh, Arun Rai, Ruba Aljafari",
+        "journal": null,
+        "date": null,
+        "abstract": "The United Nations’ Millennium Development Goals viewed infant mortality rates as a major problem in developing countries, especially in rural areas. The use of information and communication technologies (ICTs) has been seen as a key to combatting the problem due to their powerful information dissemination capabilities. We examine how the use of one ICT intervention—specifically, eHealth kiosks to disseminate authenticated and accessible medical information—can alleviate the infant mortality problem in rural India. We investigate how specific psychosocial mechanisms that emerge from the mothers’ social networks affect their use of eHealth kiosks, seeking professional medical care and ultimately, infant mortality. Drawing on social epidemiology and social networks literature, we focus on social influence and differentiate between advice and hindrance ties to capture the complex nature of the societal …"
+    },
+    {
+        "authors": "V. Venkatesh, M.G. Morris, T.A. Sykes, P.L. Ackerman",
+        "journal": null,
+        "date": "2000/8",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, Michael G Morris, Phillip L Ackerman",
+        "journal": "Organizational Behavior and Human Decision Processes",
+        "date": "2000/9/1",
+        "abstract": "This research investigated gender differences in the overlooked context of individual adoption and sustained usage of technology in the workplace using the theory of planned behavior (TPB). User reactions and technology usage behavior were studied over a 5-month period among 355 workers being introduced to a new software technology application. When compared to women's decisions, the decisions of men were more strongly influenced by their attitude toward using the new technology. In contrast, women were more strongly influenced by subjective norm and perceived behavioral control. Sustained technology usage behavior was driven by early usage behavior, thus fortifying the lasting influence of gender-based early evaluations of the new technology. These findings were robust across income, organization position, education, and computer self-efficacy levels."
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "Information Systems Research",
+        "date": "2000/12",
+        "abstract": "Much previous research has established that perceived ease of use is an important factor influencing user acceptance and usage behavior of information technologies. However, very little research has been conducted to understand how that perception forms and changes over time. The current work presents and tests an anchoring and adjustment-based theoretical model of the determinants of system-specific perceived ease of use. The model proposes control (internal and external—conceptualized as computer self-efficacy and facilitating conditions, respectively), intrinsic motivation (conceptualized as computer playfulness), and emotion (conceptualized as computer anxiety) as anchors that determine early perceptions about the ease of use of a new system. With increasing experience, it is expected that system-specific perceived ease of use, while still anchored to the general beliefs regarding computers and …"
+    },
+    {
+        "authors": "Michael G Morris, Viswanath Venkatesh",
+        "journal": "Personnel Psychology",
+        "date": "2000/6",
+        "abstract": "This research investigated age differences in individual adoption and sustained usage of technology in the workplace using the theory of planned behavior. User reactions and technology usage behavior were studied over a 5‐month period among 118 workers being introduced to a new software system. At 2 points of measurement, compared to older workers, younger workers' technology usage decisions were more strongly influenced by attitude toward using the technology. In contrast, older workers were more strongly influenced by subjective norm and perceived behavioral control, although the effect of subjective norm diminished over time. These findings were robust, even after controlling for key confounding variables identified in prior organizational behavior research (i.e., income, occupation, and education levels). Theoretical and practical implications for understanding the effects of aging on technology …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Cheri Speier, Michael G Morris",
+        "journal": "Decision Sciences",
+        "date": "2002/3",
+        "abstract": "Building on recent unique, yet potentially complementary, approaches to understanding the formation of user perceptions about technology (Venkatesh, 1999; Venkatesh & Speier, 1999), the present work reanalyzes the data from both studies to develop an integrated model of technology acceptance. The integrated model specifically examines the influence of pre‐training and training environment interventions (termed user acceptance enablers) to understand how user perceptions are formed prior to system implementation. The model is then further extended and tested using longitudinal data in a field setting. The results indicate that the integrated model emerged as a better predictor of user behavior when compared to the existing models."
+    },
+    {
+        "authors": "Alan D Carswell, Viswanath Venkatesh",
+        "journal": "International journal of human-computer studies",
+        "date": "2002/5/1",
+        "abstract": "This research investigated student outcomes in a web-based distance learning environment characterized by asynchronous electronic communications between student and teacher. We employed two dominant theories—the theory of planned behavior and innovation diffusion theory—to study student reactions to web-based distance education. We hypothesized that student perceptions of the technology are positively related to learning outcomes and intentions to further use the technology, and are negatively related to using alternative, synchronous media in the learning experience. Quantitative and qualitative data were gathered from 540 students via a web-based survey. Partial support was found for the hypotheses. Theoretical and practical implications for human–computer interaction, distance education and user acceptance are discussed."
+    },
+    {
+        "authors": "Ritu Agarwal, Viswanath Venkatesh",
+        "journal": "Information Systems Research",
+        "date": "2002/6",
+        "abstract": "Web site usability is a critical metric for assessing the quality of a firm's Web presence. A measure of usability must not only provide a global rating for a specific Web site, ideally it should also illuminate specific strengths and weaknesses associated with site design. In this paper, we describe a heuristic evaluation procedure for examining the usability of Web sites. The procedure utilizes a comprehensive set of usability guidelines developed by Microsoft."
+    },
+    {
+        "authors": "Viswanath Venkatesh, V Ramesh",
+        "journal": "Information Systems Technical Reports and Working Paper",
+        "date": "2002/9",
+        "abstract": "Usability of web sites has been shown to be a key pre-requisite for establishing a successful web presence. The Microsoft Usability Guidelines (MUG) metric and instrument presented in Agarwal and Venkatesh (2002) provide organizations with a useful measure of usability. In this research, using two field studies among over 1,000 individuals, we demonstrate that the MUG instrument is applicable to a different cultural context, across a variety of industries, and a new information device context, ie, a wireless, handheld device. Further, we provide preliminary evidence favoring richness in the richness vs. parsimony debate in the context of the MUG metric and instrument, thus suggesting the need for an expanded set of contributors to usability measurement."
+    },
+    {
+        "authors": "Cheri Speier, Viswanath Venkatesh",
+        "journal": "Journal of Marketing",
+        "date": "2002/7/1",
+        "abstract": "Sales force automation technologies are increasingly used to support customer relationship management strategies; however, commentary in the practitioner press suggests high failure rates. The authors use identity theory as a lens to better understand salesperson perceptions associated with technology rejection. They collected survey data from 454 salespeople across two firms that had implemented sales force automation tools. The results indicate that immediately after training, salespeople had positive perceptions of the technology. However, six months after implementation, the technology had been widely rejected, and salesperson absenteeism and voluntary turnover had significantly increased. There were also significant decreases in perceptions of organizational commitment, job satisfaction, person–organization fit, and person–job fit across both firms. Finally, salespeople with stronger professional …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Philip Johnson",
+        "journal": "Personnel Psychology",
+        "date": "2002/9/1",
+        "abstract": "This research examines the impact of technology design on the acceptance and long‐term use of telecommuting systems. Specifically, we compare employee acceptance and sustained use of a traditional system designed based on the common “desktop metaphor,” with a virtual‐reality system designed to enhance social richness and telepresence. This 1‐year study incorporated a within‐ and between‐subjects examination of 527 employees across 3 locations of a large organization. Results showed much higher telecommuter acceptance and use of the virtual‐reality system. Strong support emerged for the hypotheses that higher social richness and higher telepresence leads to higher telecommuter motivation and higher sustained use of the system."
+    },
+    {
+        "authors": "Alan R Dennis, Viswanath Venkatesh, V Ramesh",
+        "journal": "Working papers on Information Systems",
+        "date": "2003",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, Michael G Morris, Gordon B Davis, Fred D Davis",
+        "journal": "MIS Quarterly care: The nature of patient care information",
+        "date": "2003",
+        "abstract": null
+    },
+    {
+        "authors": "V Venkatesh, MG Moris, GB Davis, FD Davis",
+        "journal": null,
+        "date": "2003",
+        "abstract": null
+    },
+    {
+        "authors": "Kathryn Bartol, Ian Williamson, Viswanath Venkatesh, Weiping Liu",
+        "journal": "Proceedings of International Conference on Information Systems, Barcelona, Spain",
+        "date": "2002/12/31",
+        "abstract": "As noted in the President‘s Information Technology Advisory Committee (PITAC) report (1999), the need for a—continuous supply of well-trained, high-quality professionals “in information technology (IT) is critical for companies to maintain global competitiveness. Yet, as discussed in the report and elsewhere, a tightness in the market for IT professionals has been chronic for at least two decades and, despite the current slowdown, is expected to accelerate in the present decade and beyond (Council on Competitiveness 1998; Eisenberg 2002)."
+    },
+    {
+        "authors": "A Montazemi, H Qahri-Saremi, M Nejad, T Pikkarainen, K Pikkarainen, H Karjaluoto, S Pahnila, E Rogers, K Saeed, P Sangle, P Awasthi, C Sayar, S Wolfe, P Schierz, O Schilke, B Wirtz, H Simon, S Sumra, M Manzoor, H Sumra, M Abbas, M Tan, T Teo, K Tunay, N Tunay, I Akhisar, V Venkatesh, M Morris, G Davis, F Davis, W Wan, C Luk, C Chow, C Wendel, B Wirtz, M Xue, L Hitt, P Chen, P Harker",
+        "journal": "MIS Quarterly",
+        "date": "2003",
+        "abstract": "[10] II. Diese Ausführungen halten revisionsrechtlicher Nachprüfung nicht stand. Mit der vom Berufungsgericht gegebenen Begründung lässt sich die Anfechtungsbefugnis des Klägers nicht verneinen. Anfechtungsbefugt sind nach § 245 Nr. 2 Alt. 1 AktG in der Hauptversammlung nicht erschienene Aktionäre, wenn sie zu Unrecht nicht zugelassen worden sind."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Venkataraman Ramesh, Anne P Massey",
+        "journal": "Communications of the ACM",
+        "date": "2003/12/1",
+        "abstract": "Ramifications for wireless design: 'e' ≠ 'm'."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Michael G Morris, Gordon B Davis, Fred D Davis",
+        "journal": "MIS Quarterly",
+        "date": "2003/9/1",
+        "abstract": "Information technology (IT) acceptance research has yielded many competing models, each with different sets of acceptance determinants. In this paper, we (1) review user acceptance literature and discuss eight prominent models, (2) empirically compare the eight models and their extensions, (3) formulate a unified model that integrates elements across the eight models, and (4) empirically validate the unified model. The eight models reviewed are the theory of reasoned action, the technology acceptance model, the motivational model, the theory of planned behavior, a model combining the technology acceptance model and the theory of planned behavior, the model of PC utilization, the innovation diffusion theory, and the social cognitive theory. Using data from four organizations over a six-month period with three points of measurement, the eight models explained between 17 percent and 53 percent of the …"
+    },
+    {
+        "authors": "Fred D Davis, Viswanath Venkatesh",
+        "journal": "IEEE Transactions on Engineering Management",
+        "date": "2004/2",
+        "abstract": null
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh",
+        "journal": "Communications of the ACM",
+        "date": "2003/4/1",
+        "abstract": "Until holdout buyers are convinced a PC will operate like a workhorse home appliance, PC sales will continue to stall."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Michael G Morris, Tracy Ann Sykes, Phillip L Ackerman",
+        "journal": "Journal of Applied Social Psychology",
+        "date": "2004/3/1",
+        "abstract": "Using the theory of planned behavior (TPB), individual reactions to a new technology and technology usage behavior were studied over a 12‐month period among 552 employees being introduced to a new computer‐based system in the workplace. When considering gender as a psychological construct by employing Bern's Sex Role Inventory (BSRI), important distinctions were revealed. Specifically, masculine gender‐typed individuals exhibited the same pattern as did men in previous research; feminine gender‐typed individuals were different from women in that they were influenced only by subjective norm and PBC. The balanced decision‐making process was observed only in the case of individuals categorized as androgynous. The high percentage of women who tested to be androgynous explains the divergence in results from the previous work, and provides evidence of changing gender roles for women …"
+    },
+    {
+        "authors": "V. Venkatesh",
+        "journal": "The Blackwell Encyclopedic Dictionary of Management Information Systems, Cambridge",
+        "date": "2005",
+        "abstract": null
+    },
+    {
+        "authors": "Michael G Morris, Viswanath Venkatesh, Phillip L Ackerman",
+        "journal": "IEEE Transactions on Engineering Management",
+        "date": "2005/2",
+        "abstract": null
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2005/9/1",
+        "abstract": "Individual adoption of technology has been studied extensively in the workplace. Far less attention has been paid to adoption of technology in the household. In this paper, we performed the first quantitative test of the recently developed model of adoption of technology in households (MATH). Further, we proposed and tested a theoretical extension of MATH by arguing that key demographic characteristics that vary across different life cycle stages would play moderating roles. Survey responses were collected from 746 U.S. households that had not yet adopted a personal computer. The results showed that the integrated model, including MATH constructs and life cycle characteristics, explained 74 percent of the variance in intention to adopt a PC for home use, a significant increase over baseline MATH that explained 50 percent of the variance. Finally, we compared the importance of various factors across …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Ritu Agarwal",
+        "journal": "Management Science",
+        "date": "2006/3/1",
+        "abstract": "We develop a theoretical model for predicting purchase behavior in electronic channels. The model suggests that website use (i.e., technology use), a key indicator of the degree to which a site is “sticky,” is a significant antecedent of purchase behavior. Furthermore, we relate the usability of a website to use behavior and purchase behavior. Specifically, individual characteristics and product type are argued to differentially influence the weights that customers place on five different categories of usability. The weighted ratings of the five categories together determine use behavior and purchase behavior, after controlling for purchase need, experience with similar sites, and previous purchase on the specific sites. The model was tested in a longitudinal field study among 757 customers who provided usability assessments for multiple websites from four different industries—i.e., airlines, online bookstores, automobile …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Venkataraman Ramesh",
+        "journal": "MIS Quarterly",
+        "date": "2006/3/1",
+        "abstract": "Recent research has presented a conceptualization, metric, and instrument based on Microsoft Usability Guidelines (MUG; see Agarwal and Venkatesh 2002). In this paper, we use MUG to further our understanding of web and wireless site use. We conducted two empirical studies among over 1,000 participants. In study 1, conducted in both the United States and Finland, we establish the generalizability of the MUG conceptualization, metric, and associated instrument from the United States to Finland. In study 2, which involved longitudinal data collection in Finland, we delved into an examination of differences in factors important in determining web versus wireless site usability. Also, in study 2, based on a follow-up survey about site use conducted 3 months after the initial survey, we found support for a model of site use that employs the MUG categories and subcategories as predictors. The MUG-based model …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Likoebe M Maruping, Susan A Brown",
+        "journal": "Organizational Behavior and Human Decision Processes",
+        "date": "2006/7/1",
+        "abstract": "This paper examines three specific manifestations of time—anticipation (proximal vs. distal), prior experience with the behavior, and frequency (episodic vs. repeat)—as key contingencies affecting the predictive validity of behavioral intention, perceived behavioral control, and behavioral expectation in predicting behavior. These three temporal contingencies are examined in two longitudinal field studies: (1) study 1—a 6-month study of personal computer (PC) purchase behavior among 861 households and (2) study 2—a 12-month study among 321 employees in the context of a new technology implementation in an organization. In study 1, where the episodic behavior of PC purchase was examined, we found that increasing anticipation (i.e., more distal) weakened the relationship between behavioral intention and behavior and strengthened the relationship between behavioral expectation and behavior. In …"
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh, Hillol Bala",
+        "journal": "The Information Society",
+        "date": "2006/9/1",
+        "abstract": "Recently, the model of adoption of technology in households (MATH) was developed and tested in the context of household personal computer (PC) adoption. In this study, we apply MATH to predict personal computer (PC) use. We conducted a nationwide survey including 370 households that owned at least one PC. Results indicate that attitudinal beliefs are extremely important in determining use of a PC in the household. In contrast to previous work examining adopters, normative and control beliefs were not significant in predicting use. Furthermore, several determinants of adoption that were important at different stages of the household life cycle were found nonsignificant in predicting use for the same stages of the household life cycle. Overall, the results demonstrate that the belief structure for household PC use is different from that of household PC adoption. Further, the results provide additional evidence …"
+    },
+    {
+        "authors": "Srinivasan Venkatraman, Viswanath Venkatesh",
+        "journal": "available on http://cisnet. baruch. cuny. edu/koufaris/candidates/srini/srini1. pdf",
+        "date": "2006/9",
+        "abstract": "Information Systems (IS) research has primarily focused on the positive aspects of technology use and paid little attention to potential negative aspects. Drawing on research from IS and various reference disciplines, we propose a model of determinants and consequences of nonwork Internet use. We tested the model in a 3-year long study of 254 Internet users, with data collection at four points in time. As hypothesized, technology perceptions, social influences, intrinsic motivation, and mental health were determinants of non-work Internet use; and enjoyment, poor time management, yearning to use, defensive responses, and depression were consequences of non-work Internet use. Interesting temporal patterns emerged as determinants and consequences of non-work Internet use changed across the different waves of the data."
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "Decision Sciences",
+        "date": "2006/11",
+        "abstract": "This article recognizes the maturity of individual‐level technology‐adoption research and suggests three broad future research directions. They are: (i) business process change and process standards, (ii) supply‐chain technologies, and (iii) services. Each of these areas is identified based on the topics likely of interest to the readers of the "
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred D Davis, Michael G Morris",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2007",
+        "abstract": "Research on individual-level technology adoption is one of the most mature streams of information systems (IS) research. In this paper, we compare the progress in the area of technology adoption with two widely-researched streams in psychology and organizational behavior: theory of planned behavior and job satisfaction. In addition to gauging the progress in technology adoption research, this allows us to identify some fruitful areas for future research. Based on our comparison, we conclude that there has been excellent progress in technology adoption research. However, as a next step, we call for research focused on interventions, contingencies, and alternative theoretical perspectives (to the largely social psychology-based technology adoption research. Also, we believe it would be important to use the comparisons discussed here as a basis to develop a framework-driven set of future research directions to guide further work in this area."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hillol Bala, Srinivasan Venkatraman, Jack Bates",
+        "journal": "MIS Quarterly Executive",
+        "date": "2007",
+        "abstract": "Abstract The Veterans Health Administration's (VHA) health care system was once considered one of the worst in the United States. For many veterans, it was the last resort. In the early 1990s, in fact, its system had deteriorated so much that Congress considered disbanding it. However, since then, it has undergone a dramatic transformation and is now considered one of the best health care systems in the nation and a leader in almost every health care performance metric. We conducted an in-depth investigation of the VHA for about a year to understand its dramatic turnaround. We found that information technology (IT) played a key role. In particular, we found that by increasing the maturity of its enterprise architecture, the VHA achieved a high degree of integration and standardization in its business processes, which helped it transform its operations. Based on our study of the VHA, we postulate six catalysts for …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hillol Bala",
+        "journal": "Systemes d’Information et Management",
+        "date": "2007",
+        "abstract": "We conducted an exploratory study to understand the factors that played important role in the adoption of RosettaNet-based interorganizational business process standards (IBPS) in business-to-business integration (B2Bi). We found 3 sets of drivers of IBPS adoption in organizations—ie, external, internal, and instrumental. External factors include institutional pressures, standards uncertainty, and quality of interorganizational relationships. Internal factors include internal pressures, job change, technology readiness, IT competence, and organizational culture. Finally, instrumental factors include perceived benefits, process compatibility, and complexity."
+    },
+    {
+        "authors": "Kathryn M Bartol, Wei Liu, Ian O Williamson, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2007",
+        "abstract": "In a test of the reciprocity assumption underlying perceived organization support (POS) theory, this field study examined a nominological net focusing mainly on the mediating role of felt obligation in linking POS and several important outcome variables involving knowledge workers. It also assessed the impact of three moderators of POS linkages. Data were obtained from 193 information technology professionals and their supervisors. Results supported felt obligation as an important mediating mechanism for POS. For the moderators, findings demonstrated that the joint impact of POS, professional commitment, and motivating job characteristics on felt obligation was strongest when POS and the moderating elements were all high. In contrast, the detrimental impact of low POS on intention to leave was strongest when the professional commitment and coworker colleagueship moderators were also low. Overall, this study helps establish boundary conditions for perceived organization support theory."
+    },
+    {
+        "authors": "Sanjay Gosain, Viswanath Venkatesh, Tracy Ann Sykes",
+        "journal": null,
+        "date": "2007",
+        "abstract": "Information systems (IS) implementations can create technology-enabled disruptive changes in work and information flows, thus creating a new digital network. We examine the role of employees’ peer support network, the social network, in helping employees cope with a new digital network. We draw on research on social networks to conceptualize give-help and get-help ties based on employees’ interpersonal interactions related to the new system and general work practices. An employee’s access to these ties is proposed to have a direct effect on job performance, and the relationships are expected to be moderated by extent of work unit boundary-spanning such that the greater the boundary spanning, the stronger the effect. Job performance is also expected to be positively influenced by ties to the IT function and extraorganizational ties. A social network study of 87 employees at a business unit of a large organization, with data collection before and after an IS implementation, was conducted to test the research model. The results largely support our model, but we also found some unexpected and interesting negative effects of social networks on job performance (eg, getting systemrelated help outside the work unit had an adverse effect on supervisor-rated job performance)."
+    },
+    {
+        "authors": "V. Venkatesh",
+        "journal": "Center for Information Systems Research, Sloan School of Management, MIT, Research Briefing (VII: 2B)",
+        "date": "2007",
+        "abstract": null
+    },
+    {
+        "authors": "Tracy A. Sykes, Viswanath Venkatesh, John Johnson",
+        "journal": "Proceedings of the International Conference on Information Systems, Montreal, Canada, 35",
+        "date": "2007/12/31",
+        "abstract": "This paper investigates the role of personality and system-related advice networks in influencing employee job performance in the context of enterprise system implementations. A field study of 87 employees in a large multinational telecommunications firm provided evidence that the big five personality traits influence centrality and density in the advice networks related to the newly-implemented enterprise system, which in turn influenced employee job performance. As hypothesized, employees’ system-related advice networks were predicted by big five personality characteristics. In turn, system-related advice network centrality and density positively influenced job performance. Interestingly, we found that the system-related advice networks only partially mediated the role of personality on job performance. Scientific and practical contributions and implications are discussed."
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh, Jason Kuruzovich, Anne P Massey",
+        "journal": "Organizational Behavior and Human Decision Processes",
+        "date": "2008/1/1",
+        "abstract": "We discuss three theoretical models from met expectations research in the fields of organizational behavior and consumer psychology. Based on the fundamental arguments in the models, we term these models: disconfirmation, ideal point, and experiences only. We present three-dimensional graphical and analytical representations of the models, with satisfaction being a function of expectations and experiences. We tested the models in the context of a new information system implementation in an organization, with expectations, experiences, and system satisfaction measured for both ease of use and usefulness, the focal constructs of the Technology Acceptance Model (TAM). We found that an experiences only model in which expectations had no measurable effect best explained the data for ease of use. The results for usefulness indicated a modified version of the experiences only model in which the positive …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "Journal of Information Systems Education",
+        "date": "2008",
+        "abstract": "This teaching tip discusses an approach to educating MBA students regarding strategies to select, design, and implement enterprise resource planning (ERP) systems. The teaching approach presented here discusses how to teach students about different strategies based success stories from three different organizations, namely Cisco, Tektronix, and Harley-Davidson (Harvard Business School cases), in one 2 ½ hour (or two 1 ¼ hour sessions). The emphasis of the discussion will help students appreciate the need for different strategies in different organizational environments. In addition to my subjective reports of enhanced student learning, student ratings of effectiveness, efficiency, and enjoyment are presented."
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh, Bo-yan Y Huang",
+        "journal": "ICIS 2008 Proceedings",
+        "date": "2008/1/1",
+        "abstract": "This paper takes a social network approach to understand students’ interactions and their course performance. Drawing from media richness theory and media synchronicity theory, we distinguish students’ online and offline communication networks to theorize the relationship between network structure and students’ course performance. Particularly, we examine a specific property of the network structure, ie, closeness centrality, defined as the extent to which a student is close to other students in the network and thus relates to the ease of access an individual has to others. We explain the interdependence of online and offline networks and theorize about how it is associated with students’ course performance. A study of 52 students in the People’s Republic of China (PRC) supported our theory."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hillol Bala",
+        "journal": "Decision Sciences",
+        "date": "2008/5",
+        "abstract": "Prior research has provided valuable insights into how and why employees make a decision about the adoption and use of information technologies (ITs) in the workplace. From an organizational point of view, however, the more important issue is how managers make informed decisions about interventions that can lead to greater acceptance and effective utilization of IT. There is limited research in the IT implementation literature that deals with the role of interventions to aid such managerial decision making. Particularly, there is a need to understand how various interventions can influence the known determinants of IT adoption and use. To address this gap in the literature, we draw from the vast body of research on the technology acceptance model (TAM), particularly the work on the determinants of perceived usefulness and perceived ease of use, and: (i) develop a comprehensive nomological network …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Susan A Brown, Likoebe M Maruping, Hillol Bala",
+        "journal": "MIS Quarterly",
+        "date": "2008/9/1",
+        "abstract": "Employees' underutilization of new information systems undermines organizations' efforts to gain benefits from such systems. The two main predictors of individual-level system use in prior research-behavioral intention and facilitating conditions-have limitations that we discuss. We introduce behavioral expectation as a predictor that addresses some of the key limitations and provides a better understanding of system use. System use is examined in terms of three key conceptualizations: duration, frequency, and intensity. We develop a model that employs behavioral intention, facilitating conditions, and behavioral expectation as predictors of the three conceptualizations of system use. We argue that each of these three determinants play different roles in predicting each of the three conceptualizations of system use. We test the proposed model in the context of a longitudinal field study of 321 users of a new …"
+    },
+    {
+        "authors": "Yogesh K Dwivedi, Michael D Williams, Viswanath Venkatesh",
+        "journal": "Information Systems Frontiers",
+        "date": "2008/9/1",
+        "abstract": "Although the study of the adoption and diffusion of information and communication technologies (ICT) is one of the more mature research areas within the IS discipline, much of the work to date has focused on conducting investigations from organizational and/or end-user/employee perspectives. While the key role of ICT within business and government is now well-recognized, it is also important to acknowledge that in modern society, ICT has become prevalent in the daily home lives of many individuals in forms such as e-commerce, e-government, e-learning, ehealth, and e-working. This relatively recent emergence of the technology-contextualized home environment has, in turn, generated numerous issues worthy of investigation, including awareness, adoption and usage of emerging technologies and electronic services, and social exclusion due to unequal adoption by different segments of society. Given the …"
+    },
+    {
+        "authors": "Srinivasan Venkatraman, Hillol Bala, Viswanath Venkatesh, Jack Bates",
+        "journal": "Communications of the ACM",
+        "date": "2008/11/1",
+        "abstract": "Recently, Electronic Medical Record (EMR) systems have emerged as a solution to providing timely and accurate information to support various health care needs. In 2005, President Bush created the Office of the National Coordinator for Health Information Technology (ONC) and proposed the creation of a comprehensive EMR of every American within the next decade. The Department of Health and Human Services10 reported that hospitals spent about $20 billion on IT in 2003 out of which about a third was spent on EMR systems. Thus, strategies to help the successful deployment of EMR are of great significance to the health care and IT industries."
+    },
+    {
+        "authors": "Tracy Ann Sykes, Viswanath Venkatesh, Sanjay Gosain",
+        "journal": "MIS Quarterly",
+        "date": "2009/1/1",
+        "abstract": "Prior research has extensively studied individual adoption and use of information systems, primarily using beliefs as predictors of behavioral intention to use a system that in turn predicts system use. We propose a model of acceptance with peer support (MAPS) that integrates prior individual-level research with social networks constructs. We argue that an individual's embeddedness in the social network of the organizational unit implementing a new information system can enhance our understanding of technology use. An individual's coworkers can be important sources of help in overcoming knowledge barriers constraining use of a complex system, and such interactions with others can determine an employee's ability to influence eventual system configuration and features. We incorporate network density (reflecting \"get-help\" ties for an employee) and network centrality (reflecting \"give-help\" ties for an employee …"
+    },
+    {
+        "authors": "Arun Rai, Likoebe M Maruping, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2009/1/1",
+        "abstract": "Agency theory has served as a key basis for identifying drivers of offshore information system project success. Consequently, the role of relational factors in driving project success has been overlooked in this literature. In this paper, we address this gap by integrating the social embeddedness perspective and the culture literature to theorize how and why relational factors affect the success of offshore IS projects that are strategic in nature. We identify organizational and interpersonal cultural differences as critical success factors in this context. Using data from a longitudinal field study of 155 offshore IS projects managed by 22 project leaders, we found evidence of a relationship between hypothesized relational factors and two measures of offshore IS project success—namely, project cost overruns and client satisfaction—over and above the effects of project characteristics and agency factors. Specifically, we found …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, X Zhang",
+        "journal": "Journal of Global Information Technology Management",
+        "date": "2010",
+        "abstract": "This paper seeks to enrich our understanding of research on technology adoption by examining a potential boundary condition, related to culture, of the fairly recently developed model of technology adoption and use-i.e., unified theory of acceptance and use of technology (UTAUT). Based on the cultural differences between the U.S. and China, we outline the similarities and dissimilarities between the hypotheses specified in the original UTAUT, which was validated in the U.S., and how the relationships will play in the context of employees in China. We conducted an empirical study in a single organization that operated both in the U.S. and China and collected longitudinal data from a total of over 300 employees in one business unit in each of the two countries. Our study confirmed our hypotheses that social influence will be more uniformly important across all employees, without contingencies related to gender …"
+    },
+    {
+        "authors": "Abbas Monavarian, Kia Hadji Abootorab Kashi, Hamid Ramin-mehr, R Agarwal, V Venkatesh",
+        "journal": "Retrieved September",
+        "date": "2010",
+        "abstract": "Nowadays, online recruiting has become a major recruitment tool for many organizations. However, little is known about jobseekers' reactions to this new technology. This article uses Technology Acceptance Model as the core research framework to identify factors influencing applicants' intentions in using organizations' recruitment websites. Data gathered from 332 job applicants at System Group Corp. show perceived usefulness and perceived ease of use–as core constructs of TAM model–are two main factors that predict jobseekers' behavioral intentions to use recruitment websites. The paper provides an insight for HR practitioners on the effective use of e-recruitment website and the strategy to attract potential job seekers for employment."
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh, Srinivasan Venkatraman, Jack Bates, Steven H Brown",
+        "journal": "Communications of the ACM",
+        "date": "2009/1/1",
+        "abstract": "August 29, 2005. HurricAne KAtrinA mAde lAndfAll and caused catastrophic damage along the coastlines of Alabama, mississippi, and louisiana killing at least 1,836 people. 12 nearly 80% of the city of new Orleans and surrounding areas were ravaged. Katrina is estimated to be responsible for more than $80 billion in damages, making it the costliest hurricane in the us history. 12 Katrina had a major impact on health care in the affected and surrounding areas. thousands of evacuees, including many who had chronic conditions, needed immediate medical care."
+    },
+    {
+        "authors": "Likoebe M Maruping, Xiaojun Zhang, Viswanath Venkatesh",
+        "journal": "European Journal of Information Systems",
+        "date": "2009/8",
+        "abstract": "Software development is a complex undertaking that continues to present software project teams with numerous challenges. Software project teams are adopting extreme programming (XP) practices in order to overcome the challenges of software development in an increasingly dynamic environment. The ability to coordinate software developers' efforts is critical in such conditions. Expertise coordination has been identified as an important emergent process through which software project teams manage non-routine challenges in software development. However, the extent to which XP enables software project teams to coordinate expertise is unknown. Drawing on the agile development and expertise coordination literatures, we examine the role of collective ownership and coding standards as processes and practices that govern coordination in software project teams. We examine the relationship …"
+    },
+    {
+        "authors": "Likoebe M Maruping, Viswanath Venkatesh, Ritu Agarwal",
+        "journal": "Information systems research",
+        "date": "2009/9",
+        "abstract": "In this paper, we draw on control theory to understand the conditions under which the use of agile practices is most effective in improving software project quality. Although agile development methodologies offer the potential of improving software development outcomes, limited research has examined how project managers can structure the software development environment to maximize the benefits of agile methodology use during a project. As a result, project managers have little guidance on how to manage teams who are using agile methodologies. Arguing that the most effective control modes are those that provide teams with autonomy in determining the methods for achieving project objectives, we propose hypotheses related to the interaction between control modes, agile methodology use, and requirements change. We test the model in a field study of 862 software developers in 110 teams. The model …"
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh, Susan A Brown",
+        "journal": null,
+        "date": "2010/1/5",
+        "abstract": null
+    },
+    {
+        "authors": "Michael G Morris, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2010/3/1",
+        "abstract": "Little research has examined the impacts of enterprise resource planning (ERP) systems implementation on job satisfaction. Based on a 12-month study of 2,794 employees in a telecommunications firm, we found that ERP system implementation moderated the relationships between three job characteristics (skill variety, autonomy, and feedback) and job satisfaction. Our findings highlight the key role that ERP system implementation can have in altering well-established relationships in the context of technology-enabled organizational change situations. This work also extends research on technology diffusion by moving beyond a focus on technology-centric outcomes, such as system use, to understanding broader job outcomes."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Sandeep Goyal",
+        "journal": "MIS Quarterly",
+        "date": "2010/6/1",
+        "abstract": "Individual-level information systems adoption research has recently seen the introduction of expectation—disconfirmation theory (EDT) to explain how and why user reactions change over time. This prior research has produced valuable insights into the phenomenon of technology adoption beyond traditional models, such as the technology acceptance model. First, we identify gaps in EDT research that present potential opportunities for advances—specifically, we discuss methodological and analytical limitations in EDT research in information systems and present polynomial modeling and response surface methodology as solutions. Second, we draw from research on cognitive dissonance, realistic job preview, and prospect theory to present a polynomial model of expectation—disconfirmation in information systems. Finally, we test our model using data gathered over a period of 6 months among 1,143 employees …"
+    },
+    {
+        "authors": "Arun Rai, Viswanath Venkatesh, Hillol Bala, Mark Lewis",
+        "journal": "MIS Quarterly Executive",
+        "date": "2010/6/1",
+        "abstract": "Best practice suggests that modular enterprise architectures, where interfaces among business processes and services are standardized, are a key IT capability for firms to achieve profitable growth. According to recent research by Ross, Weill and, Robertson, firms must progress through four stages to achieve this capability, but only a small percentage of firms have done so. This paper presents findings on the drivers, constraints, and actions taken by two companies that evolved to modular business architectures in response to competitive pressures from their business partners or customers. One company implemented an industry standard and the other developed custom partner interface processes (PIPs) to achieve business modularity. The lessons generated from these two case studies are expected to be of interest to a broad MISQE readership."
+    },
+    {
+        "authors": "Xin Xu, Viswanath Venkatesh, Kar Yan Tam, Se-Joon Hong",
+        "journal": "Management Science",
+        "date": "2010/8",
+        "abstract": "We develop and test a model of migration and use of platforms to explain consumers' reactions to the newest generation of an information and communication technology platform. We draw from information systems and consumer behavior research on adoption and use of technologies, and adapt and incorporate the construct of complementarity from macrolevel research on platform leadership, network effects, and innovation ecosystems. We conceptualize complementarities between the hardware and software platforms, software platform and applications, and applications and services. The complementarities are theorized to influence migration intention, with current generation of the consumer's platform being a key moderator. We empirically validated our model with data collected using two waves of surveys from 4,412 consumers (2,333 consumers in the second wave) before and after the introduction of the …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hillol Bala, Tracy Ann Sykes",
+        "journal": "Production and Operations Management",
+        "date": "2010/9",
+        "abstract": "India is an important frontier for economic growth, investments, and development. The service sector, like the manufacturing industry, in India is booming. Following the trend of their western counterparts, service organizations in India are implementing enterprise‐level information and communication technologies (ICTs) to support service processes. In this paper, we used socio‐technical systems theory to develop hypotheses about the effects of ICTs on the five job characteristics, i.e., skill variety, task identity, task significance, autonomy, and feedback, in the job characteristics model (JCM) in a service organization (a bank) in India. We also tested the entire JCM that relates job characteristics to job satisfaction and job performance via various mediators and moderators. In a 32‐month longitudinal field study of 1743 employees, we gathered one wave of data before an ICT implementation and two waves after the …"
+    },
+    {
+        "authors": "Massimo Magni, Susan M Taylor, Viswanath Venkatesh",
+        "journal": "International Journal of Human-Computer Studies",
+        "date": "2010/9/30",
+        "abstract": "The present research extends prior work on the relationship between users and technology by examining users’ intention to explore a technology. Drawing on exploration and individual motivation theories, we developed and tested a model examining the effects of hedonic (i.e., personal innovativeness and cognitive absorption) and instrumental (i.e., performance expectancy and image enhancement) factors on individuals’ intentions to explore a technology over time. Based on a study of 94 users exposed to a new technology, with measurements taken at two points in time, we found that both instrumental and hedonic factors affect individuals’ intentions to explore, but their effects change over time such that as time goes by, the effect of personal innovativeness decreases and performance expectancy increases. In addition to our contributions and implications for research on technology acceptance, we present …"
+    },
+    {
+        "authors": "Susan A Brown, Alan R Dennis, Viswanath Venkatesh",
+        "journal": "Journal of Management Information Systems",
+        "date": "2010/10/1",
+        "abstract": "The paper presents a model integrating theories from collaboration research (i.e., social presence theory, channel expansion theory, and the task closure model) with a recent theory from technology adoption research (i.e., unified theory of acceptance and use of technology, abbreviated to UTAUT) to explain the adoption and use of collaboration technology. We theorize that collaboration technology characteristics, individual and group characteristics, task characteristics, and situational characteristics are predictors of performance expectancy, effort expectancy, social influence, and facilitating conditions in UTAUT. We further theorize that the UTAUT constructs, in concert with gender, age, and experience, predict intention to use a collaboration technology, which in turn predicts use. We conducted two field studies in Finland among (1) 349 short message service (SMS) users and (2) 447 employees who were …"
+    },
+    {
+        "authors": "Frank KY Chan, James YL Thong, Viswanath Venkatesh, Sue A. Brown, Paul JH Hu, Kar Yan Tam",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2010/12/26",
+        "abstract": "While technology adoption is a major stream of research in information systems, few studies have examined the antecedents and consequences of mandatory adoption of technologies. To address this gap, we develop and test a model of mandatory citizen adoption of an e-government technology. Based on a framework that outlines the key stages associated with the launch of technology products, we identify various external factors as antecedents of four key technology adoption variables from the unified theory of acceptance and use of technology (UTAUT), ie, performance expectancy, effort expectancy, social influence, and facilitating conditions, which ultimately impact citizen satisfaction. The four stages of technology launch and the salient antecedents in each stage are: market preparation stage-awareness; targeting stage-compatibility and self-efficacy; positioning stage-flexibility and avoidance of personal interaction; and execution stage-trust, convenience, and assistance. We test our model in a two-stage survey of 1,179 Hong Kong citizens, before and after they were issued a mandatory smart card to access e-government services. We find that the various factors tied to the different stages in launching the technology predict key technology adoption variables that, in turn, predict citizen satisfaction with e-government technology. We discuss the theoretical and practical implications for governments implementing technologies whose use by citizens is mandated."
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh, Susan A Brown",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2011",
+        "abstract": "Collaborative technologies are widely used to enable teams to function effectively in today's competitive business environment. However, prior research has been inconclusive regarding the impacts of collaborative technologies on team performance. To address the inconsistencies in prior work, this paper seeks to understand the mediational mechanisms that transmit the effect of collaborative technologies on team performance. Specifically, we theorize that there is a relationship between design features and knowledge contextualization. We further theorize relationships between knowledge contextualization and a team's capability for collaboration, specifically examining collaboration know-how and absorptive capacity, both of which are expected to influence team performance. We conduct a field study including 190 software project teams from a large organization in China. The results support our theoretical model and demonstrate that design features have an impact on performance outcomes, mediated by collaboration know-how and absorptive capacity."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Jason Thatcher",
+        "journal": "AIS Success Strategies Webinars",
+        "date": "2011",
+        "abstract": null
+    },
+    {
+        "authors": "Izak Benbasat, Amy Bruckman, Jane Carey, Soussan Djamasbi, Umer Farooq, David Gefen, Matt Germonprez, Khaled Hassanein, Melina Head, Traci Hess, Shuk Ying Ho, Netta Iivari, Zhenhui Jack Jiang, Richard Johnson, Weiling Ke, Vijay Khatri, Dahui Li, Eleanor Loiacono, Paul Lowry, Likoebe Maruping, Greg Moody, Lorne Olfman, Tamara Roust, Kathy Ning Shen, Heshan Sun, Kar Yan Tam, Orasa Tetiwat, Noam Tractinsky, Ozgur Turetken, Joseph S Valacich, Viswanath Venkatesh, Mun Yi",
+        "journal": "AIS Transactions on Human-Computer Interaction",
+        "date": "2011",
+        "abstract": "THCI wishes to acknowledge the voluntary services of the following individuals. They served as reviewers during the inaugural year of THCI. Our very sincere thanks are extended to each of them for their time, effort and intellectual contribution given to the authors to enhance their research, and to the journal to ensure its publication quality."
+    },
+    {
+        "authors": "Viswanath Venkatesh, JY Thong, FK Chan, P Jen-Hwa Hu, Susan A Brown",
+        "journal": null,
+        "date": "2011",
+        "abstract": "This study presents two extensions to the two-stage expectationconfirmation theory of information systems (IS) continuance. First, we expand the belief set from perceived usefulness in the original IS continuance model to include three additional predictors identified in the unified theory of acceptance and use of technology, namely effort expectancy, social influence and facilitating conditions. Second, we ground the IS continuance model in the context of transactional systems that involve transmission of personal and sensitive information and include trust as a key contextual belief in the model. To test the expanded IS continuance model, we conducted a longitudinal field study of 3159 Hong Kong citizens across two electronic government (e-government) technologies that enable citizens’ access to government services. In general, the results support the expanded model that provides a rich understanding of the changes in the preusage beliefs and attitudes through the emergent constructs of disconfirmation and satisfaction, ultimately influencing IS continuance intention. Finally, we discuss the theoretical and practical implications of the expanded model."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy A Sykes, Xiaojun Zhang",
+        "journal": null,
+        "date": "2011/1/4",
+        "abstract": null
+    },
+    {
+        "authors": "Tracy Ann Sykes, Viswanath Venkatesh, Arun Rai",
+        "journal": "Journal of the American Medical Informatics Association",
+        "date": "2011/3/1",
+        "abstract": "           "
+    },
+    {
+        "authors": "Viswanath Venkatesh, Xiaojun Zhang, Tracy A Sykes",
+        "journal": "Information Systems Research",
+        "date": "2011/9",
+        "abstract": "With the strong ongoing push toward investment in and deployment of electronic healthcare (e-healthcare) systems, understanding the factors that drive the use of such systems and the consequences of using such systems is of scientific and practical significance. Elaborate training in new e-healthcare systems is not a luxury that is typically available to healthcare professionals—i.e., doctors, paraprofessionals (e.g., nurses) and administrative personnel—because of the 24 × 7 nature and criticality of operations of healthcare organizations, especially hospitals, thus making peer interactions and support a key driver of or barrier to such e-healthcare system use. Against this backdrop, using social networks as a theoretical lens, this paper presents a nomological network related to e-healthcare system use. A longitudinal study of an e-healthcare system implementation, with data gathered from doctors, paraprofessionals …"
+    },
+    {
+        "authors": "James YL Thong, Viswanath Venkatesh, Xin Xu, Se-Joon Hong, Kar Yan Tam",
+        "journal": "IEEE Transactions on Engineering Management",
+        "date": "2011/11",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, James YL Thong, Frank KY Chan, Paul Jen‐Hwa Hu, Susan A Brown",
+        "journal": "Information systems journal",
+        "date": "2011/11",
+        "abstract": "This study presents two extensions to the two‐stage expectation‐confirmation theory of information systems (IS) continuance. First, we expand the belief set from perceived usefulness in the original IS continuance model to include three additional predictors identified in the unified theory of acceptance and use of technology, namely effort expectancy, social influence and facilitating conditions. Second, we ground the IS continuance model in the context of transactional systems that involve transmission of personal and sensitive information and include trust as a key contextual belief in the model. To test the expanded IS continuance model, we conducted a longitudinal field study of 3159 Hong Kong citizens across two electronic government (e‐government) technologies that enable citizens' access to government services. In general, the results support the expanded model that provides a rich understanding of the …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Frank KY Chan, James YL Thong",
+        "journal": "Journal of Operations Management",
+        "date": "2012/1/1",
+        "abstract": "Advances in Internet technologies have led to the popularity of technology-based self-services, with the design of such services becoming increasingly important. Using technology-based services in the public sector as the setting, we identified the key service attributes driving adoption and use of transactional e-government services, and citizens’ preference structures across these attributes. After identifying four key attributes, i.e., usability, computer resource requirement, technical support provision and security provision, we conducted a Web-based survey and a conjoint experiment among 2465 citizens. In a two-stage Web-based survey, citizens reported their perceptions about a smartcard technology for transactional e-government services before use, and their use and satisfaction 4 months later. Results showed that the key attributes (noted above) influenced citizens’ intentions, subsequent use and satisfaction …"
+    },
+    {
+        "authors": "Hartmut Hoehle, Sid Huff, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2012",
+        "abstract": "Electronically mediated self-service technologies in the banking industry have impacted the way banks service consumers. Despite a large body of research on electronic banking channels, no study has been undertaken to empirically explore the fit between electronic banking channels and banking services. Therefore, we developed and validated a service-channel fit conceptualization and an associated survey instrument. We initially investigated industry experts' perceptions towards the concept of'service-channel fit'(SCF). The findings demonstrated that the concept was highly valued by bank managers. Next, we developed a parallel survey instrument to measure the perceived service-channel fit of electronic banking channels. The instrument was developed using expert rounds and two pretest evaluations. Central to the scale development was the measurement of the SCF construct. Drawing on IS strategy and alignment literature, we created a parallel instrument allowing us to calculate the SCF across three unique service-channel fit dimensions, including service complexity, service importance and service routine. To test the research model, data were collected from 340 consumers in New Zealand using Internet banking applications for two different banking tasks. The results have important theoretical and practical implications for how clients should be serviced through electronically mediated electronic banking channels."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Sue A. Brown, Hartmut Hoehle",
+        "journal": null,
+        "date": "2012",
+        "abstract": "We first reviewed seven theoretical models that have been used to explain technology adoption and use, primarily in the workplace. Then, we examined the boundary conditions of prior models of technology adoption when applied to the household context using empirical data from 1,247 US households. Those households that had adopted household technologies were surveyed regarding their use behavior. Non-adopters were surveyed regarding their purchase intentions. This allowed us to identify the most influential factors impacting a household's decision to purchase and use technologies. Our results showed that the model of adoption of technology in the household (MATH) provided the richest explanation of technology adoption and use in the household."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Jamie B Windeler",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2012",
+        "abstract": "Despite increasing organizational interest and investment in virtual worlds (VWs), there is a lack of research on the benefits of VWs. When and how does the use of VW systems engender better organizational outcomes than traditional collaborative technologies? This paper investigates the value of VWs for team collaboration. Team collaboration is particularly relevant in studying VWs given the rich interactive nature of VWs and an increasing organizational reliance on virtual teamwork. To understand the value of VW use for team collaboration, we examine the relationship between a team's disposition toward IT, their general disposition (personality) and VW use in influencing team cohesion and performance. We conducted a field study that compares two collaborative technology systems-one that is based on a traditional desktop metaphor and one that is grounded in the principles of a virtual world. We tracked the use of the systems for one year. We analyzed data at the team level and the results generally support our model, with agreeableness, conscientiousness, extraversion, openness, and computer self-efficacy interacting with time and technology type to positively influence team technology use. We also found that the use of the virtual world system positively influenced the relationship between technology use and team cohesion, which, in turn, predicts team performance. The model explains 57 percent, 21 percent, and 24 percent of the variance in team technology use, team cohesion, and team performance, respectively."
+    },
+    {
+        "authors": "V. Venkatesh",
+        "journal": "Decision Line",
+        "date": "2012",
+        "abstract": null
+    },
+    {
+        "authors": "V Venkatesh, Morris Mg",
+        "journal": "Davis FD",
+        "date": "2012",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, James YL Thong, Xin Xu",
+        "journal": "MIS Quarterly",
+        "date": "2012",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, FK Chan, Xiaojun Zhang, Yulia Wati",
+        "journal": null,
+        "date": "2012",
+        "abstract": "Research productivity plays a vital role in driving university reputations, rankings, recruitment and retention of faculty members, and recruitment and placement of PhD students [Huang and Hsu, 2005]. Although all fields face similar challenges, this problem is exacerbated in the information systems (IS) field due to low enrolments in IS courses, thus making research productivity a key weapon in securing and retaining faculty lines. This is accomplished by examining publications in high-quality journals. Conceptualizing a set of high-quality journals is notoriously difficult given the subjective nature of the assessment of quality. A variety of methods have been used in previous research to rank the best journals, such as expert survey, citation analysis and consolidation of journal rankings from various sources (eg, Lowry et al., 2013; Peffers and Tang, 2003; Rainer and Miller, 2005; see Table 1). In addition, there are …"
+    },
+    {
+        "authors": "Hartmut Hoehle, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2015",
+        "abstract": "This paper presents a mobile application usability conceptualization and survey instrument following the 10-step procedure recommended by MacKenzie et al. (2011). Specifically, we adapted Apple’s user experience guidelines to develop our conceptualization of mobile application usability that we then developed into 19 first-order constructs that formed 6 second-order constructs. To achieve our objective, we collected four datasets: content validity (n = 318), pretest (n = 440), validation (n = 408), and cross-validation (n = 412). The nomological validity of this instrument was established by examining its impact on two outcomes: continued intention to use and mobile application loyalty. We found that the constructs that represented our mobile application usability conceptualization were good predictors of both outcomes and compared favorably to an existing instrument based on Microsoft’s usability guidelines. In …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "The Wiley Encyclopedia of Management, C. Cooper, D. Straub. and R. Welke (Eds.)",
+        "date": "2015/1/5",
+        "abstract": "This article presents an overview of the unified theory of acceptance and use of technology. I trace its origins, which relates back to the technology acceptance model, and discuss related models. I share some of my experiences, as an author, editor, and reviewer, to identify some common problems in current research investigations in this area. Drawing on these lessons, I make suggestions for future research on this topic."
+    },
+    {
+        "authors": "Susan A Brown, Viswanath Venkatesh, Hartmut Hoehle",
+        "journal": "Journal of the Association for Information Science and Technology",
+        "date": "2015/9",
+        "abstract": "We identified 7 theoretical models that have been used to explain technology adoption and use. We then examined the boundary conditions of these models of technology adoption when applied to the household context using longitudinal empirical data from households regarding their purchase and use decisions related to household technologies. We conducted 2 studies and collected 1,247 responses from U.S. households for the first study and 2,064 responses from U.S. households for the second study. Those households that had adopted household technologies were surveyed regarding their use behavior. Potential adopters (i.e., those who had currently not adopted) were surveyed regarding their purchase intentions. This allowed us to identify the most influential factors affecting a household's decision to adopt and use technologies. The results show that the model of adoption of technology in the …"
+    },
+    {
+        "authors": "Hartmut Hoehle, Xiaojun Zhang, Viswanath Venkatesh",
+        "journal": "European Journal of Information Systems",
+        "date": "2015/5/1",
+        "abstract": "As most mobile applications are tailored for worldwide consumption, it is a significant challenge to develop applications that satisfy individuals with various cultural backgrounds. To address this issue, we drew on a recently developed conceptualization and associated instrument of mobile application usability to develop a model examining the impact of mobile social media application usability on continued intention to use. Drawing on Hofstede’s five cultural values, we incorporated espoused cultural values of masculinity/femininity, individualism/collectivism, power distance, uncertainty avoidance, and long-term orientation into our model as moderators. To test the model, we collected data from 1,844 consumers in four countries – the U.S., Germany, China, and India – who use mobile social media applications on their smartphones. The results provided support for the role of espoused national cultural …"
+    },
+    {
+        "authors": "Likoebe M Maruping, Viswanath Venkatesh, Sherry MB Thatcher, Pankaj C Patel",
+        "journal": "Academy of Management Journal",
+        "date": "2015/10",
+        "abstract": "“Team temporal leadership” orients teams toward managing the time-related aspects of their work. We examine how perceived time pressure affects team processes and subsequent performance under weak versus strong team temporal leadership. The results of our field study of 111 project teams show that the mediated relationship between perceived time pressure and team performance is non-linear. Moreover, this non-linear mediated relationship is moderated by team temporal leadership such that, under strong team temporal leadership, the indirect effect of perceived time pressure on team performance is mostly positive, while, under conditions of weak team temporal leadership, the indirect effect is positive at low levels of perceived time pressure and negative at intermediate to high levels. Implications for current and future time pressure research are also discussed."
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh",
+        "journal": "Management Science",
+        "date": "2016/1",
+        "abstract": "Information technology (IT) implementation is a major organizational change event that substantially disrupts an employee’s work environment. We develop a model of technology adaptation behaviors that employees perform to cope with a new IT that causes such disruptions. Our model posits technology adaptation behaviors as a key linking mechanism between IT implementation and employee job outcomes, thus offering a holistic nomological network of technology adaptation behaviors. Two field studies conducted over a period of six months, with four waves of data collection each, in two organizations ("
+    },
+    {
+        "authors": "Viswanath Venkatesh, Susan A Brown, Yulia W Sullivan",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2016",
+        "abstract": "The objective of this paper is to extend the guidelines of Venkatesh et al.(2013) for mixed methods research by identifying and integrating variations in mixed methods research. By taking into account 14 properties of mixed methods research (eg, purposes, research questions, epistemological assumptions), our guidelines demonstrate how researchers can flexibly identify the existing variations in mixed methods research and proceed accordingly with a study design that suits their needs. To make the guidelines actionable for various situations and issues that researchers could encounter, we develop a decision tree to map the flow and relationship among the design strategies. We also provide an in-depth illustration of one possible type of mixed methods research in information systems and discuss how to develop and validate meta-inferences as the outcomes of such a study."
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": null,
+        "date": "2016/3/11",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, James YL Thong, Frank KY Chan, Paul JH Hu",
+        "journal": "Information Systems Research",
+        "date": "2016/3",
+        "abstract": "This paper investigates how citizens’ uncertainty in e-government services can be managed. First, we draw from uncertainty reduction theory, and propose that transparency and trust are two key means of reducing citizens’ uncertainty in e-government services. Second, we identify two key sets of relevant drivers of e-government service use: (1) information quality characteristics, i.e., accuracy and completeness; and (2) channel characteristics, i.e., convenience and personalization. We propose that the means of uncertainty reduction, information quality characteristics, and channel characteristics are interrelated factors that jointly influence citizens’ intentions to use e-government. We tested our model with 4,430 Hong Kong citizens’ reactions to two e-government services: government websites and online appointment booking. Our results show that the information quality and channel characteristics predict citizens …"
+    },
+    {
+        "authors": "John A Aloysius, Hartmut Hoehle, Viswanath Venkatesh",
+        "journal": "International Journal of Operations & Production Management",
+        "date": "2016/4/4",
+        "abstract": "Purpose"
+    },
+    {
+        "authors": "Viswanath Venkatesh, James YL Thong, Xin Xu",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2016/5/1",
+        "abstract": "The unified theory of acceptance and use of technology (UTAUT) is a little over a decade old and has been used extensively in information systems (IS) and other fields, as the large number of citations to the original paper that introduced the theory evidences. In this paper, we review and synthesize the IS literature on UTAUT from September 2003 until December 2014, perform a theoretical analysis of UTAUT and its extensions, and chart an agenda for research going forward. Based on Weber’s (2012) framework of theory evaluation, we examined UTAUT and its extensions along two sets of quality dimensions; namely, the parts of a theory and the theory as a whole. While our review identifies many merits to UTAUT, we also found that the progress related to this theory has hampered further theoretical development in research into technology acceptance and use. To chart an agenda for research that will enable significant future work, we analyze the theoretical contributions of UTAUT using Whetten’s (2009) notion of cross-context theorizing. Our analysis reveals several limitations that lead us to propose a multi-level framework that can serve as the theoretical foundation for future research. Specifically, this framework integrates the notion of research context and cross-context theorizing with the theory evaluation framework to:(1) synthesize the existing UTAUT extensions across both the dimensions and the levels of the research context and (2) highlight promising research directions. We conclude with recommendations for future UTAUT-related research using the proposed framework."
+    },
+    {
+        "authors": "Hartmut Hoehle, Ruba Aljafari, Viswanath Venkatesh",
+        "journal": "International Journal of Human-Computer Studies",
+        "date": "2016/5/1",
+        "abstract": "This research conceptualizes mobile application usability and develops and validates an instrument to measure the same. Mobile application usability has attracted widespread attention in the field of human–computer interaction because well-designed applications can enhance user experiences. To conceptualize mobile application usability, we analyzed Microsoft’s mobile usability guidelines and defined 10 constructs representing mobile application usability. Next, we conducted a pilot study followed by a quantitative assessment of the content validity of the scales. We then sequentially applied exploratory factor analysis and confirmatory factor analysis to two samples ("
+    },
+    {
+        "authors": "Viswanath Venkatesh, Arun Rai, Tracy Ann Sykes, Ruba Aljafari",
+        "journal": "MIS Quarterly",
+        "date": "2016/6/1",
+        "abstract": "The United Nations’ Millennium Development Goals listed high infant mortality rates as a major problem in developing countries, especially in rural areas. Given the powerful information dissemination capabilities, information and communication technologies (ICTs) have been suggested as interventions to build infant care awareness and to modify healthcare behaviors. We examine how the use of one ICT intervention—specifically, eHealth kiosks disseminating authenticated and accessible medical information—can alleviate the problem of high infant mortality in rural India. We investigate how mothers’ social networks affect their use of eHealth kiosks, seeking professional medical care for their infants and, ultimately, infant mortality. Drawing on the social epidemiology and social networks literatures, we focus on advice and hindrance from both strong and weak ties as the conduit of social influence on mothers …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hillol Bala, Vallabh Sambamurthy",
+        "journal": "Information Systems Research",
+        "date": "2016/9",
+        "abstract": "Developing countries, such as India and China, are the fastest growing economies in the world. The successful implementation of information and communication technologies (ICTs) in these countries is likely to hinge on a set of institutional factors that are shaped by the environmental tension between two competing forces, emergent catalysts, such as new economic policies and reform programs, and traditional challenges, such as infrastructure and traditional value systems. To unearth the temporal dynamics underlying the success and failure of ICT implementations in organizations in developing countries, we conducted a two-year multimethod study of an ICT implementation at a large bank in India. Based on data collected from over 1,000 employees and over 1,000 customers, we found, relative to preimplementation levels for up to two years postimplementation, that we characterized as the shakedown phase …"
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh, Srinivasan Venkatraman, Jack Bates",
+        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "date": "2016/9/9",
+        "abstract": null
+    },
+    {
+        "authors": "Likoebe M Maruping, Hillol Bala, Viswanath Venkatesh, Susan A Brown",
+        "journal": "Journal of the Association for Information Science and Technology",
+        "date": "2017/3",
+        "abstract": "Research on information technology (IT) adoption and use, one of the most mature streams of research in the information science and information systems literature, is primarily based on the intentionality framework. Behavioral intention (BI) to use an IT is considered the sole proximal determinant of IT adoption and use. Recently, researchers have discussed the limitations of BI and argued that behavioral expectation (BE) would be a better predictor of IT use. However, without a theoretical and empirical understanding of the determinants of BE, we remain limited in our comprehension of what factors promote greater IT use in organizations. Using the unified theory of acceptance and use of technology as the theoretical framework, we develop a model that posits 2 determinants (i.e., social influence and facilitating conditions) of BE and 4 moderators (i.e., gender, age, experience, and voluntariness of use) of the …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, John A Aloysius, Hartmut Hoehle, Scot Burton",
+        "journal": "MIS Quarterly",
+        "date": "2017/3/1",
+        "abstract": "There has been widespread use of auto-ID technologies. With the increasing diffusion of smartphones, the potential to serve content to shoppers using auto-ID technologies is starting to receive interest. Using a design science approach, we design and build, theorize about, and compare six shopping assistance artifacts by manipulating the hardware design—bar-code scanner versus radio frequency identification (RFID) reader—and content design—product information versus product review versus both. We theorize about how these artifact conditions will compare to a control condition (no shopping assistance artifact available) across three sets of outcomes: technology adoption, security beliefs, and shopping. We tested our propositions in two experiments—wherein the task was varied: general browsing and shopping (n= 227) versus goal-directed shopping (n= 221)—conducted in a retail store laboratory. The RFID reader was most favorably received in terms of technology adoption outcomes and shopping outcomes, although it was most negatively viewed in terms of security beliefs. We also found that the content design conditions (ie, product information, product reviews, and both) were perceived favorably. In a post hoc analysis, we found a two-way interaction of hardware and content designs such that content fueled by RFID was perceived most favorably in terms of technology adoption and shopping outcomes, whereas it was most negatively viewed in terms of security beliefs. Interestingly, the two-way interaction was most pronounced in the goal-directed shopping condition such that the most positive effects were observed for RFID in …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hartmut Hoehle, Ruba Aljafari",
+        "journal": "Government Information Quarterly",
+        "date": "2017/4/1",
+        "abstract": "We conducted a usability study of the healthcare.gov website, popularly known as the Obamacare website, using the guidelines available on usability.gov, which were published by the Department of Health and Human Services. The study was conducted among 374 citizens. We found that the interface design, which we conceptualized as 16 dimensions, was rated rather low. Specifically, five dimensions of usability emerged as key to the prediction of overall usability of the website: hardware and software, home page, screen, scrolling and paging, and user experience. We also found that citizen satisfaction and intention to use the website were rated poorly. Based on a break down by gender, age and voting behavior (for Obama or not), we found several interesting patterns of differences. Ultimately, even if the infrastructure issues that have received a bulk of the media attention are miraculously resolved, our …"
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh",
+        "journal": "Business Process Management Journal",
+        "date": "2017/6/5",
+        "abstract": "Interorganizational business process standards (IBPS) are IT-enabled process specifications that standardize, streamline, and improve business processes related to interorganizational relationships. There has been much interest in IBPS as organizations from different industries implement these process standards that lead to successful organizational outcomes by integrating and standardizing intra- and inter-organizational business processes. These process standards enable data analytics capabilities by facilitating new sources of interorganizational process data. The purpose of this paper is to unearth employees’ reactions to a new type of supply chain process innovations that involved an implementation of new IBPS, a supply chain management (SCM) system, and associated analytics capabilities."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Jaime Windeler, Kathryn M Bartol, Ian Williamson",
+        "journal": "Mis Quarterly",
+        "date": "2017/6/26",
+        "abstract": "Drawing from a total rewards perspective, we introduce three work outcomes—namely, extrinsic, social and intrinsic—as determinants of person-organization (PO) and person-job (PJ) fit perceptions of new IT employees. Gender is proposed as a moderator of the relationships between valuations of different work outcomes and fit perceptions. We found support for our model in three separate studies. In each of the studies, we gathered data about the work outcomes and fit perceptions of IT workers. The studies were designed to complement each other in terms of cross-temporal validity (studies were conducted at difference points in time over ten years, in periods of differing economic stability) and in terms of prior work experience (entry-level workers in studies 1 and 2, and those with prior work experience starting new jobs in study 3). All three studies also included data both pre-and post-organizational entry in order to further validate the robustness of the model. The studies largely supported our hypotheses that:(a) the effect of extrinsic outcomes on PO fit was moderated by gender, such that it was more important to men in determining their PO fit perceptions;(b) the effects of social outcomes on both PO fit and PJ fit was moderated by gender, such that it was more important to women in determining their fit perceptions; and (c) intrinsic outcomes influenced perceptions of PJ fit for both men and women. We discuss implications for research and practice."
+    },
+    {
+        "authors": "Tracy Ann Sykes, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2017/9/1",
+        "abstract": "This paper draws from communication research and negative asymmetry theory to examine how employee social network ties at work affect deep structure use and job performance in the context of an enterprise system (ES) implementation. Specifically, we examine how the content (ie, advice and impeding) and source (ie, friends and acquaintances) of social network ties interact with one another to influence both deep structure use of the new ES and employee job performance. A longitudinal field study was conducted, with data collected from 145 employees and their supervisors in a business unit of a large multinational telecommunications firm. Results show that both source and content of social network ties influenced deep structure use of the new ES as well as employee job performance. This work contributes to the ES implementation literature by examining the influence of both positive and negative social ties. This work also identifies an important boundary condition of negative asymmetry theory by showing that not all negative stimuli influences behavior equally."
+    },
+    {
+        "authors": "Sigi Goode, Hartmut Hoehle, Viswanath Venkatesh, Sue A Brown",
+        "journal": "MIS Quarterly",
+        "date": "2017/9/27",
+        "abstract": "Drawing on expectation confirmation research, we develop hypotheses regarding the effect of compensation on key customer outcomes following a major data breach and consequent service recovery effort. Data were collected in a longitudinal field study of Sony customers during their data breach in 2011. One hundred forty-four customers participated in the two-phase data collection that began when the breach was announced and concluded after reparations were made. Using polynomial modeling and response surface analysis, we demonstrate that a modified assimilation-contrast model explained perceptions of service quality and continuance intention and a generalized negativity model explained repurchase intention. The results of our work contribute to research on data breaches and service failure by demonstrating the impacts of compensation on customer outcomes. We discuss theoretical and practical implications."
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh",
+        "journal": "MIS Quarterly",
+        "date": "2017/12/1",
+        "abstract": "A key objective of knowledge management system (KMS) implementations is to facilitate job outcomes, such as job performance and job satisfaction. Prior KMS research indicates many KMS implementations have failed to achieve their intended job outcomes, such as job performance and job satisfaction, and one important reason for failure could be that employees do not know how to use a KMS to enhance job outcomes. Given that research on this topic is scant and the findings inconsistent, this paper sought to develop a better understanding of the topic. Specifically, we examine how employees can use a small number of KMS features to get a majority of their job tasks done. Limited research has used a systematic approach to identify these features, examined drivers of using these features, and impacts of the use of such features on job outcomes. Based on a literature review, we first identified several KMS features. Then, these features were examined using a qualitative study among 35 employees in a large organization in the finance industry to identify the key KMS features that could contribute positively to job outcomes. We then developed a nomological network of KMS feature use. Leveraging social network theory, we present peer support ties in general, and help-seeking ties and help-providing ties in particular, as key drivers of the use of these features and job outcomes. We also present various competing hypotheses for the effects from peer support to KMS feature use, KMS feature use to job outcomes, and peer support to job outcomes. We conducted a quantitative study (n= 1,441) in the same organization (noted above) to validate …"
+    },
+    {
+        "authors": "Rhonda Syler, Viswanath Venkatesh",
+        "journal": "Communications of the Association for Information Systems",
+        "date": "2018",
+        "abstract": "While Africa as a continent has experienced steady economic growth over the last decade, quality of life issues still plague much of the continent. The complexity of these problems requires intellectual capabilities to develop workable and sustainable solutions. Thus, facilitating doctoral education in less developed countries (LDCs) is an important and worthwhile undertaking. This paper tells the tale of how a simple case of serendipitous opportunity to facilitate a doctoral research seminar for an African university became a catalyst in securing the participation of several leading scholars to contribute to the seminar and grow their interest in contributing to doctoral education in LDCs. The seminar garnered strong positive reactions from the students who were spread across Africa and among the scholars who participated. We discuss the lessons we learned with a view toward providing a template for remotely delivering doctoral coursework in LDCs."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Jason D Shaw, Tracy Ann Sykes, Samuel Fosso Wamba, Mary Macharia",
+        "journal": "Academy of Management Journal",
+        "date": "2017/10",
+        "abstract": " The manuscript for this article was accepted for publication during the term of "
+    },
+    {
+        "authors": "Jaime B Windeler, Likoebe M. Maruping, Viswanath Venkatesh",
+        "journal": "Information Systems Research",
+        "date": "2017/12",
+        "abstract": "The success of information systems development (ISD) projects depends on the developers who deliver them. However, developers face many challenges in bringing an ISD project to successful completion. These projects are often large and highly complex, with volatile targets, creating a stressful environment for developers. Although prior literature has considered how technical ISD risk factors, such as project size, complexity, and target volatility, affect team- and project-level outcomes, their effects on developers have received limited attention. This gap in the literature is problematic for two reasons: (1) the interplay between developers and project characteristics are unaccounted for, resulting in an incomplete picture of ISD; and (2) developer stress has been shown to reduce team performance. In this research, we examine the role of empowering leadership in reducing developer stress in ISD. We develop a …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": "Decision Line",
+        "date": "2018",
+        "abstract": null
+    },
+    {
+        "authors": "Viswanath Venkatesh, Arun Rai, Likoebe M Maruping",
+        "journal": "Information Systems Research",
+        "date": "2018/3",
+        "abstract": "We integrate control theory and the information systems (IS) project management literature using a multilevel lens to theorize the cross-level effects of technical IS project risk on individual developer outcomes—performance and psychological stress—and the mechanisms by which IS project managers’ project-related knowledge attenuates this relationship. We argue that IS project managers with project-related knowledge mitigate technical IS project risk by facilitating the enactment of internal and external process controls in their IS projects. Our empirical study involves data collected from 1,230 individual developers embedded in 130 IS project teams that are managed by 20 IS project managers. Our results provide strong support for the three-level model and its set of (a) cross-level main effects of technical IS project risk on individual developer outcomes; (b) cross-level main effects of IS project manager project …"
+    },
+    {
+        "authors": "Xiaojun Zhang, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2018/3/17",
+        "abstract": "This paper integrates three streams of research in information systems─ ie, IS success, technology adoption, and human-centered design principles─ to extend our understanding of technology use. A theoretical framework that incorporates the core ideas from these three streams of research, along with task, is presented. We leverage the proposed framework to present propositions that could guide future work. Specifically, the propositions developed relate system design principles to use and net benefits (ie, job performance and job satisfaction) and rich use to job performance. We further suggest several broad potential future research directions."
+    },
+    {
+        "authors": "Hartmut Hoehle, John A Aloysius, F.K.Y. Chan, Viswanath Venkatesh",
+        "journal": "The International Journal of Logistics Management",
+        "date": "2018/5/14",
+        "abstract": "Mobile technologies are increasingly used as a data source to enable big data analytics that enable inventory control and logistics planning for omnichannel businesses. The purpose of this paper is to focus on the use of mobile technologies to facilitate customers’ shopping in physical retail stores and associated implementation challenges."
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": null,
+        "date": "2018/6/18",
+        "abstract": "ICT4D has emerged as an important research area within the IS discipline, with special issues in leading journals. Research on societal problems and a focus on the grand challenges facing the planet is crucial to do research that matters and changes the lives of the poorest people on the planet. In this presentation, against the backdrop of the presenter's work in rural India, suggested future research directions that call for a paradigm shift will be proposed spanning from human-computer interaction to IS theories."
+    },
+    {
+        "authors": "Narongsak Thongpapanl, Abdul R Ashraf, Luciano Lapa, Viswanath Venkatesh",
+        "journal": "Journal of International Marketing",
+        "date": "2018/9",
+        "abstract": "Despite promising growth, mobile commerce (m-commerce) still represents only a small proportion of the world's total e-commerce market. The research behind this article moves away from the predominantly single-country (typically developed) and utilitarian-focused market scope of past research to examine and provide a more nuanced understanding of customers’ motivations, whether utilitarian or hedonic, for using m-commerce across six countries. The six-country context, with data collected from 1,183 m-commerce users, offers a unique opportunity to advance mobile-retailing literature by comparing customers’ value perceptions, trust, and m-commerce use across disparate national markets. By treating motivations as conditions activated by individuals’ chronic regulatory orientations, our results show that hedonic motivation plays a more significant role in influencing customers’ value perceptions and trust for …"
+    },
+    {
+        "authors": "John A Aloysius, Hartmut Hoehle, Soheil Goodarzi, Viswanath Venkatesh",
+        "journal": "Annals of Operations Research",
+        "date": "2018/11/1",
+        "abstract": "Given the enormous amount of data created through customers’ transactions in retail stores, it comes as no surprise that retailers are actively seeking initiatives to leverage big data and offer their customers superior services that provide mutual, previously unattainable benefits. Nonetheless, fulfilment of such a strategic aim requires customers to adopt and embrace emerging technology-driven services. Exploring customers’ perceptions of such big data initiatives in retail environments, we develop a model examining the effects of technology enablers and privacy concerns on critical shopping outcomes including repatronage intentions, store image, and intention to use medium in the context of recently identified service configurations. We conduct an exploratory study to understand customers’ reactions toward emerging shopping scenarios and to enhance our survey instrument and then conduct an online …"
+    },
+    {
+        "authors": "Dirk S Hovorka, Frantz Rowe, Lynne Markus, Sirkka Jarvenpaa, E Burton Swanson, Mary Lacity, Andrew Burton-Jones, Viswanath Venkatesh, Rudy Hirschheim",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2019",
+        "abstract": "This paper presents seven scholarly commentaries on Hirschheim’s “Against Theory” essay published in this issue of the Journal of the Association for Information Systems. Each commentary is written by a renowned IS researcher. Following the individual commentaries is Hirschheim’s response to the commentaries. Each commentary provides an insightful exegesis on theory in its own right and, collectively, the commentaries and response provide thought-provoking reflections for researchers in IS and beyond."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy A. Sykes, Frank KY Chan, James YL Thong, Paul JH Hu",
+        "journal": "MIS Quarterly",
+        "date": "2019",
+        "abstract": "This paper examines the role of parenting behaviors in influencing children’s Internet addiction and the consequences of children’s Internet addiction on parents’ job outcomes. First, we draw on attachment theory to theorize that five parenting behaviors (ie, parental control, monitoring, unstructured time, dissuasion, and rationalization) affect children’s Internet addiction and their effects are moderated by the children’s views of parent-child attachment. Second, we draw on research on the work-family interface to theorize that children’s Internet addiction affects parents’ job outcomes (ie, job satisfaction, organizational commitment, and work exhaustion) and the effects are mediated by family-to-work conflict. We tested our hypotheses using an integrated research approach that includes quantitative and qualitative data. We conducted an online survey to collect quantitative responses from 776 parent-child dyads. The results of our model showed that the effects of parenting behaviors on children’s Internet addiction, except for dissuasion, were moderated by the children’s views of parent-child attachment. Also, family-to-work conflict mediated the effects of children’s Internet addiction on parents’ job satisfaction, organizational commitment, and work exhaustion. We collected qualitative data via interviews from 50 parents to cross-validate the results from the quantitative study."
+    },
+    {
+        "authors": "Emmanuel Monod, Saonee Sarker, Alan Hevner, Alok Gupta, Michael Barrett, Viswanath Venkatesh, Dick Boland, Kalle Lyytinen",
+        "journal": null,
+        "date": "2019",
+        "abstract": "Even though AI technology providers and consultants are assuming a direct positive causality between these technologies and economic benefits, we claim that at least three IS research communities include some recalcitrant members who are challenging aspects of that optimistic discourse. For sake of simplicity, we are naming them as being scholarly members of the design, the economics, and the behavioral communities of IS research. In addition to these three debating voices, three dissenting voices will take critical positions on the questions at hand from radically different stances: the humanist voice, the societal voice and the iconoclastic pluralist voice. The voices will present their arguments within different business contexts. This panel will challenge the new “Age of AI,” and help chart a reasonable IS perspective on the future of AI and its implications in our discipline."
+    },
+    {
+        "authors": "Srinivasan Venkatraman, Christy MK Cheung, Zach WY Lee, Fred D. Davis, Viswanath Venkatesh",
+        "journal": "Journal of Management Information Systems",
+        "date": "2018/10/2",
+        "abstract": "Cyberdeviance, intentional use of information technology (IT) in the workplace that is contrary to the explicit and implicit norms of the organization and that threatens the well-being of the organization and/or its members, is an important research stream that has gained attention in academia and industry. Prior studies have treated different forms of cyberdeviance as different phenomena, resulting in a lack of a collective underlying conceptualization of cyberdeviance. This work inductively and empirically derives a typology of cyberdeviance with 439 respondents across three phases. Our results suggest that cyberdeviance varies along 3 dimensions: cyberdeviant behaviors that are minor versus serious; cyberdeviant behaviors that target individuals versus organizations; and cyberdeviant behaviors that require low versus high technical skill. We thus provide a comprehensive framework that fosters a logical linkage of …"
+    },
+    {
+        "authors": "John A Aloysius, Ankur Arora, Viswanath Venkatesh",
+        "journal": "Information Technology & People",
+        "date": "2019/10/7",
+        "abstract": "Retailers are implementing technology-enabled mobile checkout processes in their stores to improve service quality, decrease labor costs and gain operational efficiency. These new checkout processes have increased customer convenience primarily by providing them autonomy in sales transactions in that store employee interventions play a reduced role. However, this autonomy has the unintended consequence of altering the checks and balances inherent in a traditional employee-assisted checkout process. Retailers, already grappling with shoplifting, with an estimated annual cost of billions of dollars, fear that the problem may be exacerbated by mobile checkout and concomitant customer autonomy. The purpose of this paper is to understand the effect of mobile checkout processes in retail stores on cybercrime in the form of shoplifting enabled by a technology transformed the retail environment …"
+    },
+    {
+        "authors": "Saonee Sarker, Alan Hevner, Alok Gupta, Michael Barrett, Viswanath Venkatesh, Kalle Lyytinen, Richard Boland",
+        "journal": null,
+        "date": "2019",
+        "abstract": "Even though AI technology providers and consultants are assuming a direct positive causality between these technologies and economic benefits, we claim that at least three IS research communities include some recalcitrant members who are challenging aspects of that optimistic discourse. For sake of simplicity, we are naming them as being scholarly members of the design, the economics, and the behavioral communities of IS research. In addition to these three debating voices, three dissenting voices will take critical positions on the questions at hand from radically different stances: the humanist voice, the societal voice and the iconoclastic pluralist voice. The voices will present their arguments within different business contexts. This panel will challenge the new “Age of AI,” and help chart a reasonable IS perspective on the future of AI and its implications in our discipline."
+    },
+    {
+        "authors": "Hartmut Hoehle, John A Aloysius, Soheil Goodarzi, Viswanath Venkatesh",
+        "journal": "European Journal of Information Systems",
+        "date": "2019/1/2",
+        "abstract": "The explosive growth of mobile devices and their widespread acceptance by customers along with the potential benefits of autoID technologies have prompted retailers to consider adoption of emerging technologies. Their motives are to enhance in-store customer shopping experience and to acquire an advantage in the competitive retail environment. Two interrelated issues nevertheless have been a hindrance: mobile shopping application usability and customers’ privacy concerns. Drawing on a recently developed conceptualisation of mobile application usability and the multidimensional developmental theory of privacy, we tackle these two issues. We theorise about the impact of artifact design on mobile application usability and the consequent impact of usability on customers’ privacy concerns and shopping efficiency. We tested our hypotheses in two retail store laboratory studies in which the participants were …"
+    },
+    {
+        "authors": "Likoebe M Maruping, Viswanath Venkatesh, James YL Thong, Xiaojun Zhang",
+        "journal": "Journal of Management Information Systems",
+        "date": "2019/1/2",
+        "abstract": "As new information technology (IT) platforms continue to emerge, the technical project risk associated with developing IT projects for these platforms is particularly challenging for organizations. We develop a nomological network of people, process, and technology to gain insight into how the effect of technical project risk can be mitigated at the IT project team level. Drawing on cultural contingency theory, the IT project risk framework, and the IT project management literature, we elaborate on the IT project team composition and team processes necessary to mitigate technical project risk. We tested the nomological network by conducting a field study of 325 IT project teams over a 3-year period at a large corporation in China. We found that project risk mitigation processes mediated the effect of IT project teams’ cultural composition on IT project performance, and the effect of these processes on IT project performance …"
+    },
+    {
+        "authors": "Safa'a AbuJarour, Manuel Wiesche, Antonio Díaz Andrade, Jane Fedorowicz, Hanna Krasnova, Sebastian Olbrich, C Tan, Cathy Urquhart, Viswanath Venkatesh",
+        "journal": "Communications of the Association for Information Systems",
+        "date": "2019/6/12",
+        "abstract": "The recent phenomenon that has become known as the European refugee crisis is, in reality, a global problem. Accordingly, issues regarding refugee integration have become a central debate topic worldwide. In this paper, we examine how refugees use information and communication technology (ICT) in different regions across the world to understand how ICT supports their desperate journey to safety, their stay in temporary settlement camps, and their post-settlement inclusion in host countries. We conducted a series of interviews with Syrian refugees in Berlin, Germany, to collect preliminary insights. Then, we organized panel discussions at two key information systems conferences (ICIS 2016 and ECIS 2017) that involved participants from various countries. The panel discussions revealed seven key research themes: accessibility to information, availability of education and linguistic resources, admissibility to labor markets and entrepreneurship opportunities, communicability with home country, connectedness with local population, interactivity with host government, and volunteer coordination. We discuss how ICT might help to address issues related to each theme, present research questions relevant to each theme, and supply an illustration of how ICT has been employed to address an aspect of each theme. Insights gathered lead to theoretical implications and future opportunities for research in the information systems field, practical implications for different stakeholders interested in refugee integration to consider, and social implications related to refugee crisis that we cannot ignore."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy Ann Sykes, Arun Rai, Pankaj Setia",
+        "journal": "MIS Quarterly",
+        "date": "2019/12/1",
+        "abstract": "Initiatives to leverage information and communication technologies for development (ICT4D) have attracted huge investments, especially in less developed countries. However, the success rate of such initiatives has been low. Prior research on this topic has argued for various individual and network characteristics as predictors of information and communication technology (ICT) use and consequent benefits. We argue that, in order to garner potential benefits of the local information and knowledge resources embedded in citizens’ advice networks, hybrid governance from a combination of the local government and the technology sponsor is required. We further theorize that leadership by the local government or the technology sponsor for different stages of the ICT4D initiative affects the effectiveness of the pathways through which benefits of citizens’ advice networks accrue. We found support, in a longitudinal field study in ten villages in India (2,980 heads of households), for our theory that hybrid governance outperforms homogeneous governance models. Leadership by the local government for the pre-launch stage and by the technology sponsor for the post-launch stage was the most effective in promoting the behavioral pathway for economic benefits—that is, leveraging advice networks for ICT use and consequent gains in income. In contrast, leadership by the technology sponsor for the pre-launch stage and by the local government for the post-launch stage was the most effective in promoting the informational pathway—that is, leveraging information and knowledge from advice networks to directly generate gains in income. Adjacent …"
+    },
+    {
+        "authors": "Tashfeen Ahmad, Ruba Aljafari, Viswanath Venkatesh",
+        "journal": "Internet Research",
+        "date": "2019/12/2",
+        "abstract": "Realizing value from information and communication technology (ICT) in procurement in developing countries is complex due to diverse stakeholders and intertwined procurement processes. The purpose of this paper is to examine the experience of the Government of Jamaica in leveraging ICTs as an intervention to transform its procurement operations and combat corruption."
+    },
+    {
+        "authors": "V. Venkatesh",
+        "journal": "BizEd Magazine, July/August",
+        "date": "2020",
+        "abstract": null
+    },
+    {
+        "authors": "Sebastian Schuetz, Viswanath Venkatesh",
+        "journal": "Journal of the Association for Information Systems",
+        "date": "2020",
+        "abstract": "Cognitive computing systems (CCS) are a new class of computing systems that implement more human-like cognitive abilities. CCS are not a typical technological advancement but an unprecedented advance toward human-like systems fueled by artificial intelligence. Such systems can adapt to situations, perceive their environments, and interact with humans and other technologies. Due to these properties, CCS are already disrupting established industries, such as retail, insurance, and healthcare. As we make the case in this paper, the increasingly human-like capabilities of CCS challenge five fundamental assumptions that we as IS researchers have held about how users interact with IT artifacts. These assumptions pertain to (1) the direction of the user-artifact relationship,(2) the artifact’s awareness of its environment,(3) functional transparency,(4) reliability, and (5) the user’s awareness of artifact use. We argue that the disruption of these five assumptions limits the applicability of our extant body of knowledge to CCS. Consequently, CCS present a unique opportunity for novel theory development and associated contributions. We argue that IS is well positioned to take this opportunity and present research questions that, if answered, will lead to interesting, influential, and original theories."
+    },
+    {
+        "authors": "Viswanath Venkatesh, James YL Thong, Frank KY Chan, Hartmut Hoehle, Kai Spohrer",
+        "journal": "Information Systems Journal",
+        "date": "2020/3/19",
+        "abstract": "Agile methods are widely used in the software industry as a way to more rapidly develop and deliver new software. They define iterative work processes, advocate self‐organization and openness for change, and prescribe how software developers interact with each other and external stakeholders. Despite their popularity, it is unclear how agile methods influence work exhaustion in software developers and how developer skills play into this effect. On the one hand, agile methods may reduce software developers' work exhaustion by levelling out their workload across the entire duration of a project. On the other hand, agile methods exert a high level of pressure on software developers to continuously deliver working software, create many intensive social interactions, and to frequently adapt to changes. In light of these effects, prior research could not explain why some software developers become less exhausted …"
+    },
+    {
+        "authors": "Sebastian Schuetz, Viswanath Venkatesh",
+        "journal": "International journal of information management",
+        "date": "2020/6/1",
+        "abstract": "The economic development of rural India requires connecting remote villages to local and global supply chains. Yet, high rates of financial exclusion inhibit rural Indians from participating in these supply networks. We review the literature on financial inclusion, adoption, and blockchain in India, and posit that to resolve financial exclusion, the four challenges of geographical access, high cost, inappropriate banking products, and financial illiteracy need to be overcome. Next, we argue that blockchain technologies hold the potential to overcome most of these challenges. However, for blockchain technologies to become the cornerstone of financial inclusion initiatives, an understanding of technology adoption in India is needed. To guide the development of such understanding, we develop a research agenda on the antecedents of adoption, adoption patterns, and outcomes of adoption. Answering these research …"
+    },
+    {
+        "authors": "Viswanath Venkatesh, Tracy Ann Sykes, Xiaojun Zhang",
+        "journal": "MIS Quarterly",
+        "date": "2020/6/1",
+        "abstract": "With a view toward improving the success of information and communication technology (ICT) initiatives in less developed countries in general and India in particular, this work seeks to uncover reasons for success and failure of ICT for development (ICT4D) initiatives. We drew on social networks theory in general and social contagion theory in particular, and examined the impact of advice network constructs on ICT kiosk use and the impact of ICT kiosk use on women’s health outcomes (ie, seeking modern medical care and maternal mortality). A two-level model (ie, village and individual) was developed to understand how women in rural India were influenced by other women in their advice networks to use ICT kiosks, and the effects of ICT kiosk use on seeking modern medical care and maternal mortality. At the village level, we proposed lead user network effects. At the individual level, we proposed structural network effects of other women in a focal woman’s network on individual outcomes of ICT kiosk use, seeking modern medical care, and maternal mortality. We focused on network position (ie, centrality) and network tie strength (ie, strong ties and weak ties) as explanatory variables. Specifically, we argued that strong tie centrality will have an adverse effect on ICT kiosk use, whereas weak tie centrality will have a favorable effect. We also argued ICT kiosk use will have a positive effect on seeking modern medical care and a negative effect on maternal mortality. Finally, we argued that seeking modern medical care will have a negative effect on maternal mortality. Our model was mostly supported in data collected about 6,710 women in 10 …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": null,
+        "date": "2020/12/1",
+        "abstract": "Grounded in the vast changes to work life (jobs) and home life that people are facing due to the COVID-19 pandemic (hereinafter COVID), this article presents five research directions related to COVID’s impacts on jobs—i.e., job loss, job changes, job outcomes, coping, and support—and five research directions related to COVID’s impact on home life—i.e., home life changes, children, life-related outcomes, social life, and support. In addition to this, I discuss overarching possible research directions and considerations for researchers, editors, and reviewers, as we continue our scientific journey to support people through this pandemic and beyond. I organize these directions and considerations into two sets of five each: focal groups that should be studied—i.e., underprivileged populations, different countries and cultural contexts, women (vs. men), workers in healthcare (frontline workers), elderly and at-risk—and five …"
+    },
+    {
+        "authors": "Abayomi Baiyere, Heikki Topi, Viswanath Venkatesh, Brian Donnellan",
+        "journal": null,
+        "date": "2020/12/10",
+        "abstract": "The Internet of things (IoT) is emerging as an integrated set of digital innovations with the potential to unleash unprecedented opportunities and create significant challenges from both technological and societal perspectives. The IoT’s emergence signals many valuable opportunities (particularly for information systems (IS) scholars) to conduct scholarly inquiries. We posit that, since the IS discipline operates at the intersection of information technologies’(IT) social, business, and technical aspects, IS scholars have a unique capacity to understand and contribute to advancing research on this new topic and associated phenomena. We outline the IoT’s distinctive attributes and their implications for existing IS research traditions. Furthermore, we highlight some illustrative research perspectives from which IS scholars can study the IoT. We highlight a research agenda for IS in two different ways. First, we discuss four IS characteristics that change based on IoT elements: 1) the physio-digital continuum, 2) multi-level exploration of IS, 3) composite affordance, and 4) heterogeneity. Second, we discuss the ways in which the IoT opens up research opportunities based on its impact on four major thematic domains: 1) organizations, 2), technology, 3) individuals, and 4) society."
+    },
+    {
+        "authors": "Amber Young, Yaping Zhu, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2021",
+        "abstract": "Emancipation is a key concept in critical theories. Prior work suggests that emancipation is a complex and multi-faceted concept. Many conceptualizations of emancipation exist, and emancipation is defined in different ways. Existing empirical studies mainly focus on one or few components of emancipation. To have an integrated understanding of emancipation, we review the literature on emancipation in information systems (IS), with a view toward developing a typology of components of emancipation in the IS field. The typology of emancipation components consists of four components: freedom to act, freedom to express, freedom to belong and freedom to think. These components relate to the concepts of agency, dialogue, inclusion, and rationality, respectively."
+    },
+    {
+        "authors": "Markus Blut, Alain Chong, Zayayd Tsiga, Viswanath Venkatesh",
+        "journal": null,
+        "date": "2021/3/16",
+        "abstract": "There are both formal and informal cries that UTAUT and by association the stream of research on technology adoption has reached its limit, with little or no opportunities for new knowledge creation. Such a conclusion is ironic because the theory has not been sufficiently and suitably replicated. It is possible that the misspecifications in the various replications, applications, and extensions led to the incorrect conclusion that UTAUT was more robust than it really was and opportunities for future work were limited. Although work on UTAUT has included important variables, predictors and moderators, absent a faithful use of the original specification, it is impossible to assess the true nature of the effects of the original and additional variables. The present meta-analysis uses 25,619 effect sizes reported by 737,112 users in 1,935 independent samples to address this issue. Consequently, we develop a clear current state-of-the-art and revised UTAUT that extends the original theory with new endogenous mechanisms from different, other theories (ie, technology compatibility, user education, personal innovativeness, and costs of technology) and new moderating mechanisms to examine the generalizability of UTAUT in different contexts (eg, technology type and national culture). Based on this revised UTAUT, we present a research agenda that can guide future research on the topic of technology adoption in general and UTAUT in particular."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Hartmut Hoehle, John A Aloysius, Hamid Nikkhah",
+        "journal": "Computers in Human Behavior",
+        "date": "2021/3/23",
+        "abstract": "Despite the explosion of selling online, customers continue to have privacy concerns about online purchases. To alleviate such concerns, shopping sites seek to employ interventions to encourage users to buy more online. Two common interventions used to promote online sales are: (1) recommendations that help customers choose the right product either based on historic purchase correlations or recommendations suggested by the retailer; and (2) discounts that increase the value of products. Building on privacy calculus, we theorize about how and why "
+    },
+    {
+        "authors": "Jason Kuruzovich, Timothy D Golden, Soheil Goodarzi, Viswanath Venkatesh",
+        "journal": "Information & Management",
+        "date": "2021/4/1",
+        "abstract": "This research investigates an artifact-centric view of the telecommuting experience, examining how system use and software quality influence job outcomes of telecommuters. We develop and test our moderated mediation model in a cross-organizational study of 184 teleworkers. Results show the extensive use of telecommuting systems negatively impacts social exchange processes and job satisfaction, organizational commitment, and job performance of telecommuters, underscoring limitations of virtual interactions. However, high-quality software can moderate this negative effect, because the negative relationship between telecommuting system use and job outcomes becomes nonsignificant, as telecommuting software quality increases."
+    },
+    {
+        "authors": "Yang Chen, Ruba Aljafari, Bo Xiao, Viswanath Venkatesh",
+        "journal": "Journal of the American Medical Informatics Association",
+        "date": "2021/5",
+        "abstract": "Few studies examine physicians’ use of different features of health information technology (HIT) in relation to their psychological empowerment and stress, especially in China, where many hospitals are being pushed to share digitized medical information. Further, there are mixed findings about the impact of HIT on stress, with some studies suggesting that HIT increases stress and others suggesting no effect. Hence, there is a need for a nuanced view of HITs to incorporate different features, regions, and outcomes. This work seeks to extend the existing body of knowledge on HIT by assessing the effects of basic (data-related) and advanced (clinical) HIT features on physician empowerment, stress, and ultimately, job satisfaction in Chinese hospitals."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Daniel C Ganster, Sebastian W Schuetz, Tracy Ann Sykes",
+        "journal": "Journal of Applied Psychology",
+        "date": "2021/5",
+        "abstract": "Highly conscientious workers are more motivated and productive than their less conscientious colleagues. Moreover, conscientious employees tend to be more satisfied and less stressed from their work. One consequence of the COVID-19 pandemic, however, is that many workers have transitioned to working remotely, often under conditions of less direct supervision and less clarity about expected work activities and outcomes. We proposed that this significant change in work context constitutes a weakening of situational strength that can change the relationship of conscientiousness with job strain, job satisfaction, and job performance. Using Meyer et al.’s (2010) conceptualization of situational strength, we tested the moderating effect of situational strength by surveying 474 white-collar employees in a Fortune-1000 firm in 2019 and again in 2020 after they had all transitioned to working remotely. We found that the …"
+    },
+    {
+        "authors": "Likoebe Maruping, Arun Rai, Ruba Aljafari, Viswanath Venkatesh",
+        "journal": "Industrial Management & Data Systems",
+        "date": "2021/10/4",
+        "abstract": "Advances in information technology coupled with the need to build resilience against disruptions by pandemics like COVID-19 continue to emphasize offshoring services in the software industry. Service-level agreements (SLAs) have served as a key mechanism for safeguarding against risk in offshore service arrangements. Yet, variations in service cost and quality persist. This study aims to open up the blackbox linking SLAs to offshore project outcomes by examining (1) how the provisions in these contracts affect the ability of project teams – the work unit primarily in charge of producing the offshored service – to achieve their objectives and fulfill client requirements and (2) how differences in contextual factors shape the effects of these provisions."
+    },
+    {
+        "authors": "Hillol Bala, Viswanath Venkatesh, Daniel C Ganster, Arun Rai",
+        "journal": "Industrial Management & Data Systems",
+        "date": "2021/6/28",
+        "abstract": "Although research has suggested that enterprise system (ES) implementations have major impacts on employee job characteristics and outcomes, there has been limited research that has examined the impacts of ES implementations on interpersonal relationships over time. Building on and extending recent studies that have examined changes in employee job characteristics and outcomes during an ES implementation, this research examined the nature, extent, determinants and outcomes of changes in an important interpersonal relationship construct—coworker exchange (CWX)—following an ES implementation. CWX is considered a critical aspect of employees' job and an important determinant of their success in the workplace. Drawing on social exchange theory (SET), the authors theorize that employees will perceive a change in CWX following an ES implementation …"
+    },
+    {
+        "authors": "Sebastian W Schuetz, Tracy Ann Sykes, Viswanath Venkatesh",
+        "journal": "European Journal of Information Systems",
+        "date": "2021/7/4",
+        "abstract": "The onset of the COVID-19 pandemic was accompanied with a pandemic of fake news spreading over social media (SM). Fact checking might help combat fake news and a plethora of fact-checking platforms exist, yet few people actually use them. Moreover, whether fact checking is effective in preventing citizens from falling for fake news, particularly COVID-19 related, is unclear. Against this backdrop, we examine potential antecedents to fact checking that can be a target for interventions and establish that fact checking is actually effective for preventing the public from falling for harmful COVID-19 fake news. We use a representative U.S. sample collected in April of 2020 and find that awareness of fake news and patterns of active SM use (e.g., commenting on content instead of reading it) increases the fact checking of COVID-19 fake news, whereas SM homophily reduces fact checking and the effects of SM use as …"
+    },
+    {
+        "authors": "Abdul R Ashraf, Narongsak Thongpapanl Tek, Ali Anwar, Luciano Lapa, Viswanath Venkatesh",
+        "journal": "International Journal of Information Management",
+        "date": "2021/8/1",
+        "abstract": "Mobile--> commerce (m-commerce) has become increasingly important for organizations attempting to grow revenue by expanding into international markets. However, for multinational mobile retailers (m-retailers), one of the greatest challenges lies in carefully managing their websites across multiple national markets. This work advances cross-national research on m-retailing by (1) examining how value dimensions shape m-shoppers’ motivations, (2) analyzing differential effects of hedonic and utilitarian motivations on intention and habit, and (3) examining the competing roles of conscious (intentional) and unconscious (habitual) m-commerce use drivers across developed and developing countries. This research also examines the moderating role of m-commerce readiness at the country level on the effect of motivation on intention and habit, along with their impact on m-commerce use. Based on data from 1 …"
+    },
+    {
+        "authors": "Frank KY Chan, James YL Thong, Susan A Brown, Viswanath Venkatesh",
+        "journal": "Public Administration Review",
+        "date": "2021/9",
+        "abstract": "This research examines the relationship between service design and citizen satisfaction with e‐government services. Based on a multidimensional conceptualization of service, we define three key service perceptions, each comprising different design characteristics, that jointly influence perceived service quality and citizen satisfaction with e‐government services. The service perceptions and their corresponding design characteristics are: (1) perceptions of a core service—accuracy, completeness, self‐service capability, and convenience; (2) perceptions of facilitating services—accessibility, privacy protection, security protection, and user support; and (3) perceptions of supporting services—personalization capability and transparency. We tested our research model using data from a two‐stage survey of 3,065 users of three e‐government services. The results showed that all design characteristics contributed to …"
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": null,
+        "date": "2021/10/5",
+        "abstract": null
+    },
+    {
+        "authors": "Hartmut Hoehle, Viswanath Venkatesh, Sue A Brown, Bennett Tepper, Thomas Kude",
+        "journal": "Hoehle, H., Venkatesh, V., Tepper, B., Brown, SA, and Kude, TC “Effects of Customer Compensation on Justice Perceptions: A Longitudinal Study of Target’s Data Breach,” MIS Quarterly, forthcoming",
+        "date": "2021/11/3",
+        "abstract": "Data breaches are a major threat to organizations from both financial and customer relations perspectives. We developed a nomological network linking post-breach compensation strategies to key outcomes, namely continued shopping intentions, positive word-of-mouth, and online complaining, with the effects being mediated by customers’ justice perceptions. We conducted a longitudinal field study investigating Target’s data breach in 2013 that affected more than 110 million customers. We examined customers’ expectations toward compensation immediately after the breach was confirmed (survey 1) and their experiences after reparations were made (survey 2). Evidence from polynomial regression and response surface analyses of data collected from 388 affected customers showed that customers’ justice perceptions were influenced by the actual compensation provided as well as the type and extent of compensation an organization could and should have provided, ie, customers’ compensation expectations. Interestingly, both positive and negative expectation disconfirmation led to less favorable justice perceptions compared to when expectations were met. Justice perceptions were, in turn, associated with key outcomes. We discuss implications for research on data security, information systems, and justice theory."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Fred Davis, Christy Cheung, Zach Lee",
+        "journal": "Venkatesh, V., Davis, FD, Cheung, CMK, and Lee, ZWY “Cyberslacking in the Workplace: Antecedents and Effects on Job Performance,” MIS Quarterly, forthcoming",
+        "date": "2021/11/7",
+        "abstract": "Employees’ nonwork use of information technology (IT), or cyberslacking, is of growing concern due to its erosion of job performance and other negative organizational consequences. Research on cyberslacking antecedents has drawn on diverse theoretical perspectives, resulting in a lack of cohesive explanation of cyberslacking. Further, prior studies generally overlooked IT-specific variables. To address the cyberslacking problems in organizations and research gaps in the literature, we used a combination of a literature-based approach and a qualitative inquiry to develop a model of cyberslacking that includes a 2x2 typology of antecedents. The proposed model was tested and supported in a three-wave field study of 395 employees in a Fortune-100 US organization. For research, this work organizes antecedents from diverse research streams and validates their relative impact on cyberslacking, thus providing a cohesive theoretical explanation of cyberslacking. This work also incorporates contextualization (ie, IT-specific factors) into theory development and enriches IS literature by examining the nonwork aspects of IT use and their negative consequences to organizations. For practice, the results provide practitioners with insights into nonwork use of IT in organizations, particularly on how they can take organizational action to mitigate cyberslacking and maintain employee productivity."
+    },
+    {
+        "authors": "Abdul R Ashraf, Narongsak Tek Thongpapanl, Luciano Lapa, Viswanath Venkatesh",
+        "journal": "Ashraf, AR, Thongpapanl, NT, Anwar, A., Lapa, L., and Venkatesh, V.,“Perceived Values and Motivations Influencing M-Commerce Use,” International Journal of Information Management (59)",
+        "date": "2021/11/7",
+        "abstract": "Mobile commerce (m-commerce) has become increasingly important for organizations attempting to grow revenue by expanding into international markets. However, for multinational mobile retailers (m-retailers), one of the greatest challenges lies in carefully managing their websites across multiple national markets. This work advances cross-national research on m-retailing by (1) examining how value dimensions shape m-shoppers’ motivations,(2) analyzing differential effects of hedonic and utilitarian motivations on intention and habit, and (3) examining the competing roles of conscious (intentional) and unconscious (habitual) m-commerce use drivers across developed and developing countries. This research also examines the moderating role of m-commerce readiness at the country level on the effect of motivation on intention and habit, along with their impact on m-commerce use. Based on data from 1,975 m-shoppers in nine countries (Australia, Bangladesh, Brazil, India, Pakistan, Singapore, the United Kingdom, the United States, and Vietnam) across four continents, the results demonstrate differential relationships: consumers at an advanced (early) readiness stage are more likely to be hedonism-motivated (utility-motivated) when using m-commerce and tend to use it intentionally/consciously (habitually/unconsciously). In addition to advancing knowledge about m-commerce from a scientific perspective, the findings can help multinational firms decide whether to standardize or adapt m-shopping experiences when internationalizing."
+    },
+    {
+        "authors": "Viswanath Venkatesh",
+        "journal": null,
+        "date": "2022/1",
+        "abstract": "This paper is motivated by the widespread availability of AI tools, whose adoption and consequent benefits are still not well understood. As a first step, some critical issues that relate to AI tools in general, humans in the context of AI tools, and AI tools in the context of operations management are identified. A discussion of how these issues could hinder employee adoption and use of AI tools is presented. Building on this discussion, the unified theory of acceptance and use of technology is used as a theoretical basis to propose individual characteristics, technology characteristics, environmental characteristics and interventions as viable research directions that could not only contribute to the adoption literature, particularly as it relates to AI tools, but also, if pursued, such research could help organizations positively influence the adoption of AI tools."
+    },
+    {
+        "authors": "Viswanath Venkatesh, Cheri Speier-Pero, Ruba Aljafari, Hillol Bala",
+        "journal": null,
+        "date": "2022",
+        "abstract": "As information technology (IT) continues to be an integral yet evolving component in work settings, organizations need to ensure that they realize value from IT. Prior studies that examined the post-adoption consequences of IT use in terms of employee job outcomes were inconclusive with respect to the magnitude and direction of these impacts—ie, positive, negative, and nonsignificant impacts of IT use on job outcomes. The question of under what conditions IT use leads to favorable job outcomes over time thus remains largely unanswered. We develop a model of IT-related contingencies that integrates core constructs from the IT adoption research with two key job outcomes: job satisfaction and job performance. We hypothesize that, in the post-adoption phase, technology-job fit will be a key moderator of the relationships between IT use for supporting sales operations and job outcomes. Further, we suggest a theoretical extension of the classical predictors of IT adoption, perceived usefulness and perceived ease of use, as we expect them to moderate the effect of IT use on job performance over time. We tested our model in a longitudinal field study among 295 field sales personnel over a 24-month period. We found that, although IT use had a negative effect on job satisfaction during the post-adoption phase, this effect was moderated by technology-job fit such that the negative effect was significantly attenuated by technology-job fit. We also found that perceived usefulness, perceived ease of use, and technology-job fit enhanced the positive effect of IT use on job performance. Our findings offer insights on the mechanisms and conditions related …"
+    }
+]
